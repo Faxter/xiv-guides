@@ -132,6 +132,7 @@ Jeder Support besetzt einen Tower. Wer welchen, bestimmt sich anhand der Debuffs
 * "Plus" (+) geht Nord
 * "Kreuz" (x) geht Süd
 * Towers West & Ost: H1 immer West, H2 immer Ost, Tanks adjust
+
 +
 *Plus*: in äußerste Ecke, dann zum Add +
 *Kreuz*: ganz hinten in die Mitte, dann zum Add +

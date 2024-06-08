@@ -1,0 +1,212 @@
+= Anabaseios - Der Zwölfte Kreis (Episch)
+Phase 1: Athena
+:imagesdir: img/p12s-1
+:toc: left
+:toclevels: 1
+
+
+== Quellen und Ressourcen
+* https://docs.google.com/spreadsheets/d/1hxXOR_3sQM8hr6zwMG2aBuEoNft4RVroHv8C9WmsGmU/edit?pli=1#gid=793239696[Timeline Google Doc]
+* https://www.youtube.com/watch?v=5gAz-1cIKOE[Hector Video]
+* https://www.youtube.com/watch?v=TXN50IIOjqo&ab_channel=yukizuri[yukizuri Video]
+* https://www.youtube.com/watch?v=Q4Qy3CRMdQc&ab_channel=Rinon[Rinon Video]
+* https://raidplan.io/plan/3dAPviff43oX-duC[Raidplan duC]
+
+
+== Chat-Makros
+----
+/p ┏━━━━━━ -- ━━━━━━┓ 
+/p ┣━SC Spread --┳━━Paradeigma1 ━━┫ 
+/p ┃            ┃Lazy Lasers Tank invul┃ 
+/p ┃            ┣━━Paradeigma2 ━━┫ 
+/p ┃            ┃Supports = CW from A┃ 
+/p ┃                        ┃DPS-       = CCW from A┃ 
+/p ┃            ┣━━-SuperChain1 ━━┫ 
+/p ┃            ┃Light=Left, Red=Right┃ 
+/p ┣━━━━━Paradeigma3 ━━━━━━━┫ 
+/p ┃            = North         = South                 ┃ 
+/p ┃    -est >>>>> ast-    ┃ 
+/p ┃Horizont./Letter Tether  Mid Tower ┃ 
+/p ┗━━━━━━━━━-  -━━━━━━━━━┛
+----
+
+----
+/p ■ Limit Cut 
+/p 　　　　  ★ 
+/p 　　　    2/4 
+/p 　　5/7　　6/8 
+/p 　　　　1/3　　　　 
+/p     ※ Drop puddles clockwise 
+/p 　※ Beams：5, 7 → 6, 8 → 1, 3 → 2, 4 
+/p 　※ Gather North afterwards
+----
+
+== Marks
+----
+{"Name":"P12S-1","MapID":943,"A":{"X":99.986,"Y":0.0,"Z":90.086,"ID":0,"Active":true},"B":{"X":109.985,"Y":0.0,"Z":100.022,"ID":1,"Active":true},"C":{"X":99.98,"Y":0.0,"Z":110.019,"ID":2,"Active":true},"D":{"X":90.094,"Y":0.0,"Z":99.942,"ID":3,"Active":true},"One":{"X":109.942,"Y":0.0,"Z":89.972,"ID":4,"Active":true},"Two":{"X":109.11,"Y":0.0,"Z":110.09,"ID":5,"Active":true},"Three":{"X":90.731,"Y":0.0,"Z":110.084,"ID":6,"Active":true},"Four":{"X":90.261,"Y":0.0,"Z":89.906,"ID":7,"Active":true}}
+----
+
+== Tank Hinweise
+* beide invuln für Paradigma-1
+* Glaukopis (Glaukosis) (Laser-Tankbuster) muss während Cast und nach zweitem Hit gespottet werden
+* Persönliche Mitigation ist auch für Peri-/Apodialogos notwendig!
+
+== Paradigma 1
+=== Lazy Lasers
+* Tanks zu Add-Hälfte + Invuln
+* Rest auf andere Hälfte
+
+=== Variante: JP Lazy Lasers
+* M1 übernimmt einen der ersten Laser
+** Dadurch kann MT den Invuln zum zweiten Laser nach hinten schieben und die erste Auto mit abdecken
+
+== Dreifaltigkeit der Seelen (Trinity of Souls)
+* unten nach oben -> mittlerer wird gedreht
+* oben nach unten -> keine Drehungen
+
+Bild ist für unten nach oben.
+Bei oben nach unten wird "no dodge" zu einem Doppel-Dodge, ansonsten gilt das Bild für beide Richtungen.
+
+.Dreifaltigkeit der Seelen
+image::trinity-of-souls.png[dreifaltigkeit flügel-patterns]
+
+== Paradigma 2
+* Tether:
+** orthogonal ziehen
+** Tower besetzen
+* Debuffs:
+** Tower ablegen auf interkardinal Mark
+** Muss neben PERSON mit gegenteiligem Tether abgelegt werden (Licht-Debuff zu Dark-Tether & andersrum)
+** Ersten passenden Spot wählen:
+*** Supports schauen von N CW: 1 -> 2 -> 3
+*** DDs schauen von NW CCW: 4 -> 3 -> 2
+
+.Paradigma 2 Tether + Tower
+image::para-2-tether-tower.png[paradigma 2 tether tower]
+
+== Superkette - Theorie (Superchain Theory) 1
+Die Ketten werden an 3 aufeinander folgenden Spots gespielt.
+
+Alle SPREAD, PAAR, LINKS, RECHTS gelten relativ mit Blick zum Boss in die Arena-Mitte hinein!
+Spread: Melees vorne, Tanks halb-vorne, Heals halb-hinten, Ranged hinten -- G1 links, G2 rechts +
+Paare: MT+M1, OT+M2, H1+R1, H2+R2
+
+Spot 1:: RAUS oder REIN zusammen mit SPREAD oder PAAR
+Debuffs werden verteilt
+
+Spot 2:: REIN (gegenüberliegende Ecke hat RAUS)
+Licht links, Rot rechts, Laser andersrum +
+_MERKSATZ_: *LASER LANDERSRUM*
+
+Spot 3:: RAUS -> REIN oder REIN -> RAUS +
+*Towers*: Licht links & Rot rechts +
+*Lasers*: Tower nehmen, gleiche Seite wie vorher Laser geschossen wurde +
+*Spreaders*: Melees in Richtung Boss, Ranged nach hinten, G1 links, G2 rechts
+
+.Superchain Spread-Patterns
+image::superchain-1-spread-patterns.png[superchain spread patterns]
+
+.Superchain 1 Spot 2
+image::superchain-1-spot-2.png[superchain 1 spot 2]
+
+.Superchain 1 Towers + Spread
+image::superchain-1-towers-spread.png[superchain 1 towers spread]
+
+Main-Tank dreht Boss am Ende auf eine Kardinale (Nord ist nicht immer rechtzeitig möglich).
+Dann wird Dreifaltigkeit (Flügel-Mechanik) mit Tanks vor dem Boss, Gruppe hinterm Boss gespielt.
+Diese Spots werden für das Rauslaufen der nächsten Mech weiterverwendet:
+(nicht statisch Nord/Süd! Besser für Positionals)
+
+== Apodialogos / Peridialogos
+* Apodialogos
+** Party in, Tanks out
+* Peridialogos
+** Party out, Tanks in
+
+== Paradigma 3
+Supports und DDs machen unterschiedliche Sachen:
+
+Supports::
+
+Jeder Support besetzt einen Tower. Wer welchen, bestimmt sich anhand der Debuffs: +
+* "Plus" (+) geht Nord
+* "Kreuz" (x) geht Süd
+* Towers West & Ost: H1 immer West, H2 immer Ost, Tanks adjust
++
+*Plus*: in äußerste Ecke, dann zum Add +
+*Kreuz*: ganz hinten in die Mitte, dann zum Add +
+*Tower mit gegenteiligen Tethern bei sich*: mittig der aktuellen Plattform in Safe-Zone ablegen +
+*Tower mit gleichen Tethern bei sich*: so weit wie möglich ins Zentrum ablegen (Tower muss auf andere Plattform ragen)
+
+
+DDs::
+Jeder DD streckt einen Tether gerade so weit, dass er auflöst (nicht weiter weg laufen): +
+Mein Add an unsafe Plattform? -> Horizontal +
+Mein Add an safe? -> Gekreuzt bis zum Rand der Plattform
+
++
+Gleiche Farbe wie Support auf meine Plattform? -> Add baiten (so dicht wie möglich ran) (wer nördlich steht, geht zum nördlichen) +
+Farbe anders? -> Tower besetzen +
+War ich gekreuzt? -> Mitte (Tower von anderer Plattform) +
+War ich horizontal? -> auf meiner Plattform besetzen
+
+Bilder sind Tether & Tower => Plus/Kreuz => Add-Baits + Tower-Spots
+
+.Paradigma 3 Tether + Tower
+image::para-3-tether-tower.png[paradigma 3 tether tower]
+
+.Paradigma 3 Zielpositionen
+image::para-3-target-spots.png[paradigma 3 target spots]
+
+== Palladion + Schockwelle (Limit Cut)
+2&4 starten leicht versetzt, damit sie beim ersten Dash nicht "überfahren" werden und schieben sich direkt nach diesem Dash in Position. +
+Die Reihenfolge der Adds in der Mitte hat zwei verschiedene Patterns - es kann also sein, dass innerhalb eines Laser-Bait-Slots ein früher oder ein später Laser zugewiesen wird.
+
+* Boss als neues relatives Nord nehmen
+* 1&3 Süd, 2&4 nach erstem Dash Nord, 5&7 West, 6&8 Ost
+* Lasers 5&7 -> 6&8 -> 1&3 -> 2&4
+
+Boss dasht also in etwa ⬇️⬆️⬇️⬆️↙️➡️⬅️➡️, wobei jedes Pärchen nach jedem Dash CW aus der Fläche heraus-rotiert.
+
+Am Ende alle (Echt-)Nord!
+
+.Limit Cut
+image::palladion.png[palladion und schockwelle]
+
+== Superkette Theorie (Superchain Theory) 2A
+Ablauf:
+
+* Flügel-1 + Paare (Nord oder Süd) (auf sicherer Hälfte)
+* Flügel-2 + Rein (immer Mitte)
+* Flügel-3 + Nord oder Süd
+* Pairs oder Spread (ganze Fläche nutzen nach Flügel-3)
+
+Paare und Spread gleich wie bei Superchain-1! +
+Boss-relativ Melees vorne usw.
+
+.Superchain 2A
+image::superchain-2A.png[superchain 2A]
+
+== Superkette - Theorie (Superchain Theory) 2B
+Ablauf:
+
+. In (Nord oder Süd)
+. Zur Seite vom nächsten Schritt ausweichen
+. Paare oder Spread (West oder Ost)
+. Adds ausweichen + auf Seite vom nächsten Schritt bewegen
+. Out + Spread (Nord oder Süd)
+. Sichere Plattform betreten (nur eine safe)
+
+Paare und Spread gleich wie bei Superkette-1! +
+Boss-relativ Melees vorne usw.
+
+=== Beispiel
+. In Süd
+. Dodge Parthenos nach West
+. Pairs West (Melees bewegen sich in Animation von Parthenos)
+. Adds westlich von Mitte ausweichen, dabei nach Süd
+. Spread Süd (G2 bewegen sich in Animation von Add)
+. Position hier nicht sichtbar
+
+.Superchain 2B Beispiel
+image::superchain-2B-example.png[superchain 2B example]

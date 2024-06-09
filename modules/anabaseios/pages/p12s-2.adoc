@@ -1,6 +1,6 @@
 = Anabaseios - Der Zwölfte Kreis (Episch)
 Phase 2: Pallas Athena
-:imagesdir: img/p12s-2
+:imagesdir: ../images/p12s-2
 :toc: left
 :toclevels: 1
 

@@ -1,7 +1,4 @@
-= Anabaseios - Der Zwölfte Kreis (Episch)
-Phase 2: Pallas Athena
-:toc: left
-:toclevels: 1
+= Anabaseios - Der Zwölfte Kreis (Episch): Phase 2 - Pallas Athena
 
 
 == Quellen und Ressourcen

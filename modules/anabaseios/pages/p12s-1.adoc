@@ -1,6 +1,5 @@
 = Anabaseios - Der Zwölfte Kreis (Episch)
 Phase 1: Athena
-:imagesdir: ../images/p12s-1
 :toc: left
 :toclevels: 1
 
@@ -68,7 +67,7 @@ Bild ist für unten nach oben.
 Bei oben nach unten wird "no dodge" zu einem Doppel-Dodge, ansonsten gilt das Bild für beide Richtungen.
 
 .Dreifaltigkeit der Seelen
-image::trinity-of-souls.png[dreifaltigkeit flügel-patterns]
+image::p12s-1/trinity-of-souls.png[dreifaltigkeit flügel-patterns]
 
 == Paradigma 2
 * Tether:
@@ -82,7 +81,7 @@ image::trinity-of-souls.png[dreifaltigkeit flügel-patterns]
 *** DDs schauen von NW CCW: 4 -> 3 -> 2
 
 .Paradigma 2 Tether + Tower
-image::para-2-tether-tower.png[paradigma 2 tether tower]
+image::p12s-1/para-2-tether-tower.png[paradigma 2 tether tower]
 
 == Superkette - Theorie (Superchain Theory) 1
 Die Ketten werden an 3 aufeinander folgenden Spots gespielt.
@@ -104,13 +103,13 @@ Spot 3:: RAUS -> REIN oder REIN -> RAUS +
 *Spreaders*: Melees in Richtung Boss, Ranged nach hinten, G1 links, G2 rechts
 
 .Superchain Spread-Patterns
-image::superchain-1-spread-patterns.png[superchain spread patterns]
+image::p12s-1/superchain-1-spread-patterns.png[superchain spread patterns]
 
 .Superchain 1 Spot 2
-image::superchain-1-spot-2.png[superchain 1 spot 2]
+image::p12s-1/superchain-1-spot-2.png[superchain 1 spot 2]
 
 .Superchain 1 Towers + Spread
-image::superchain-1-towers-spread.png[superchain 1 towers spread]
+image::p12s-1/superchain-1-towers-spread.png[superchain 1 towers spread]
 
 Main-Tank dreht Boss am Ende auf eine Kardinale (Nord ist nicht immer rechtzeitig möglich).
 Dann wird Dreifaltigkeit (Flügel-Mechanik) mit Tanks vor dem Boss, Gruppe hinterm Boss gespielt.
@@ -154,10 +153,10 @@ War ich horizontal? -> auf meiner Plattform besetzen
 Bilder sind Tether & Tower => Plus/Kreuz => Add-Baits + Tower-Spots
 
 .Paradigma 3 Tether + Tower
-image::para-3-tether-tower.png[paradigma 3 tether tower]
+image::p12s-1/para-3-tether-tower.png[paradigma 3 tether tower]
 
 .Paradigma 3 Zielpositionen
-image::para-3-target-spots.png[paradigma 3 target spots]
+image::p12s-1/para-3-target-spots.png[paradigma 3 target spots]
 
 == Palladion + Schockwelle (Limit Cut)
 2&4 starten leicht versetzt, damit sie beim ersten Dash nicht "überfahren" werden und schieben sich direkt nach diesem Dash in Position. +
@@ -172,7 +171,7 @@ Boss dasht also in etwa ⬇️⬆️⬇️⬆️↙️➡️⬅️➡️, wobei 
 Am Ende alle (Echt-)Nord!
 
 .Limit Cut
-image::palladion.png[palladion und schockwelle]
+image::p12s-1/palladion.png[palladion und schockwelle]
 
 == Superkette Theorie (Superchain Theory) 2A
 Ablauf:
@@ -186,7 +185,7 @@ Paare und Spread gleich wie bei Superchain-1! +
 Boss-relativ Melees vorne usw.
 
 .Superchain 2A
-image::superchain-2A.png[superchain 2A]
+image::p12s-1/superchain-2A.png[superchain 2A]
 
 == Superkette - Theorie (Superchain Theory) 2B
 Ablauf:
@@ -210,4 +209,4 @@ Boss-relativ Melees vorne usw.
 . Position hier nicht sichtbar
 
 .Superchain 2B Beispiel
-image::superchain-2B-example.png[superchain 2B example]
+image::p12s-1/superchain-2B-example.png[superchain 2B example]

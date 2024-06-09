@@ -1,6 +1,5 @@
 = Anabaseios - Der Zwölfte Kreis (Episch)
 Phase 2: Pallas Athena
-:imagesdir: ../images/p12s-2
 :toc: left
 :toclevels: 1
 
@@ -64,13 +63,13 @@ https://discord.com/channels/277897135515762698/1112825040606609630/111496803833
 ** -> Supports links, DDs rechts mit Blick auf dieses Add ("add relative")
 
 .Beispiele Gaiochos 1 - add-relative
-image::uav-1-add-relative.png[uav 1 add relative]
+image::p12s-2/uav-1-add-relative.png[uav 1 add relative]
 
 * Boss legt Tentakeln um Arena und erzeugt eins von drei dodge-patterns
 * jeder hat eine winzige Fläche auf sich, deshalb gleichzeitig verteilen
 
 .Patterns "horizontal", "vertikal", "donut"
-image::uav-1-geo-patterns.png[uav 1 geo patterns]
+image::p12s-2/uav-1-geo-patterns.png[uav 1 geo patterns]
 
 
 == Elementarschöpfung (Classical Concept) 1
@@ -85,10 +84,10 @@ Ziel: Die blauen Icosaeder beschützen!
 * Wenn zwei Figuren zur Auswahl stehen => die ohne benachbarten Icosaeder auswählen!
 
 .Classical 1 Beispiel 1
-image::classical-1-example-1.png[classical 1 example 1]
+image::p12s-2/classical-1-example-1.png[classical 1 example 1]
 
 .Classical 1 Beispiel 2
-image::classical-1-example-2.png[classical 1 example 2]
+image::p12s-2/classical-1-example-2.png[classical 1 example 2]
 
 * danach Explosionen der Formen ausweichen
 * so dass die Pallas-Strahlen (Palladian Rays) in etwa K-förmig vom jeweiligen Bein gebaitet werden
@@ -97,7 +96,7 @@ image::classical-1-example-2.png[classical 1 example 2]
 ** nicht die andere Hälfte weglasern..
 
 .Classical Strahlen
-image::classical-rays.png[classical rays]
+image::p12s-2/classical-rays.png[classical rays]
 
 
 == Kalorische Theorie (Caloric Theory) 1
@@ -120,7 +119,7 @@ Support tauscht mit H2, DD mit R2 (nur sofern notwendig).
 NACH diesem Tausch sind wir in Startposition.
 
 .Caloric 1 Startposition
-image::caloric-1-start.png[caloric 1 start]
+image::p12s-2/caloric-1-start.png[caloric 1 start]
 
 === Erstes Boom
 _Debuffs können ignoriert werden!_ (Nur schauen, ob über dem Kopf Feuer ist oder nix)
@@ -161,7 +160,7 @@ Wo stacken wir ohne von Wind getötet zu werden?
 * mehr Abstand? => in der Mitte!
 
 .Caloric 1 Stacks
-image::caloric-1-stack.png[caloric 1 stacks]
+image::p12s-2/caloric-1-stack.png[caloric 1 stacks]
 
 
 == Ekpyrosis
@@ -174,10 +173,10 @@ Dann Spread entlang der Wand.
 Sobald persönliche Fläche hochgeht, in Position für Exaflare-Dodge.
 
 .Ekpyrosis Startposition Nord/Süd
-image::ekpyrosis-NS.png[ekpyrosis north south]
+image::p12s-2/ekpyrosis-NS.png[ekpyrosis north south]
 
 .Ekpyrosis Startposition Ost/West
-image::ekpyrosis-EW.png[ekpyrosis east west]
+image::p12s-2/ekpyrosis-EW.png[ekpyrosis east west]
 
 
 == Pangenesis
@@ -216,7 +215,7 @@ Tower 2 SÜD +
 Tower 3 entsprechend Debuff
 
 .Pangenesis Tower Zuordnung
-image::pangenesis-tower-assignments.png[pangenesis tower assignments]
+image::p12s-2/pangenesis-tower-assignments.png[pangenesis tower assignments]
 
 === Schleim Tethers
 Die 0-DNA Spieler sammeln am Ende auf ihrer Seite exakt drei Schleim-Tethers ein.
@@ -227,7 +226,7 @@ Die 0-DNA Spieler sammeln am Ende auf ihrer Seite exakt drei Schleim-Tethers ein
 Auf diese Weise kann MT den Half-Room-Tankbuster immer auf die westliche Seite legen.
 
 .Pangenesis Schleime
-image::pangenesis-slime-tethers.png[pangenesis slime tethers]
+image::p12s-2/pangenesis-slime-tethers.png[pangenesis slime tethers]
 
 
 == Elementarschöpfung (Classical Concept) 2
@@ -243,7 +242,7 @@ findet eure Position vor dem Flip.
 die Zielposition ist dann die andere Zahl, z.B. wer auf der 4 hinten rechts startet, muss zur 4 vorne links
 
 .Classical 2 Chat-Makro
-image::classical-2-makro.png[classical 2 chat makro]
+image::p12s-2/classical-2-makro.png[classical 2 chat makro]
 
 . Zuerst den blauen spiegeln, die Zielposition muss auch nach dem Flip dicht am blauen sein
 . die Seite muss zusammen mit Tether-Buddy gewechselt werden
@@ -261,7 +260,7 @@ Einer bekommt Feuer (roter Marker) -> Tauscht mit H2 und bleibt für den Rest de
 Der Rest bekommt gleichförmige Marker in grün.
 
 .Caloric 2
-image::caloric-2.png[caloric 2]
+image::p12s-2/caloric-2.png[caloric 2]
 
 Wer den Entropification-Debuff mit einem Feuer über dem Kopf hat, fängt an:
 
@@ -273,7 +272,7 @@ Wer den Entropification-Debuff mit einem Feuer über dem Kopf hat, fängt an:
 Dadurch wird die mittlere Position ausgelassen, woher die Bezeichnung "Skip Mid" rührt.
 
 .Caloric 2 Debuff Icon
-image::caloric-2-debuff.png[caloric 2 debuff icon]
+image::p12s-2/caloric-2-debuff.png[caloric 2 debuff icon]
 
 
 == Gaiochos (UAV) 2
@@ -302,4 +301,4 @@ Dann werden die Spieler der anderen Gruppe getethert.
 Gleiches Prinzip wie vorher.
 
 .Gaiochos 3: DDs haben Tether, Supports unterbrechen
-image::uav-3-tethers.png[uav 3 tethers]
+image::p12s-2/uav-3-tethers.png[uav 3 tethers]

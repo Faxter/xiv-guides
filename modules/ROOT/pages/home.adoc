@@ -1,1 +1,3 @@
-= Landing page for XIV guides
+= XIV Guides
+
+include::anabaseios:partial$navlist.adoc[]

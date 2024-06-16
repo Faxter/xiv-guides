@@ -1,0 +1,84 @@
+== Ifrit
+
+https://ff14.toolboxgaming.space/?id=562530446784261&preview=1[Toolbox]
+
+=== Fesseln (Nails)
+*4 Nägel erscheinen in Form eines Eimers* +
+Eimerboden als relatives Norden nehmen.
+
+Heal:: mit Searing Wind nach hinten, ohne Debuff in Mitte
+
+Ranges:: hinten links und rechts Eruptions baiten +
+-> jeder Nagel muss in exakt 2 Eruptionen stehen +
+-> erst hinteren Nagel, dann vorderen mit Eruptionen belegen, dann Stack Mitte
+
+Off-Tank:: hat Kette mit einem DD - Kette kurz halten und zusammen mit dem DD bewegen +
+-> Wenn Schaden gut läuft, kann man die Kette auch ignorieren
+
+Main-Tank:: hält Boss zwischen den vorderen Nägeln, AoE auf Boss + vordere Nägel
+
+Melees:: hintere Nägel angreifen bis etwa 25%, dann auf vordere wechseln
+
+Nägel töten in dieser Reihenfolge: hinten rechts -> hinten links -> vorne rechts -> vorne links
+
+[IMPORTANT]
+Diese Reihenfolge bestimmt den Ablauf der nächsten Mechanik!
+
+Aufpassen mit Flächenfähigkeiten! Beispielsweise ein Beschwörer, der hier Bahamut beschwört kann schnell mal alle Nägel versehentlich töten.
+
+Die Interkardinale vom Eimerboden ist dann neues relative North.
+
+.Ifrit Nägel
+image::nails.png[nails]
+
+
+=== Erwecken
+Ifrit erhält je einen Stack für jeden zerstörten großen Nagel und wird mit dem vierten Stack erweckt.
+Jeder Nagel erscheint im Zustand 'klein'. Wird ein Nagel von einer Eruption getroffen, wächst er auf 'mittel'. Bei zwei auf 'groß'.
+Deswegen dürfen die Nägel erst zerstört werden, wenn sie von zwei Eruptionen getroffen wurden. Wird ein Nagel von dreien getroffen, explodiert er und wipet den Raid.
+
+
+=== Dashes
+_Ifrit-Klone erscheinen am Rand_
+
+Main-Tank:: Boss zur nächsten Intercardinal CW vom Nagel 4 ziehen -- wenn Nagel 4 schon Intercardinal ist, direkt zu Nagel 4
+
+Heal:: mit Gluthitze bzw. Searing Wind nach links bzw relatives West
+
+Ranges:: hinten rechts bzw. 135° CW vom Boss Eruptions baiten -- das ist IMMER auf einer Kardinalen +
+-> zu zweit stehen und die Eruptions aufeinander legen +
+-> nach vierter Eruption im Gruppenstack ankommen
+
+_Cardinal Plus-Dash_
+
+Heal:: mit zweitem Gluthitze bzw. Searing Wind läuft CW nach hinten bzw. relatives Süd
+
+_6er Gruppenstack (roter Dorito-Marker)_
+
+Heal:: vom ersten Gluthitze bzw. Searing Wind ist jetzt wieder frei und geht zurück zur Gruppe
+
+Gruppe:: CCW bis zum nächsten Ifrit-Klon -- dadurch landen wir immer an Nagel-Position 4; es kann sein, dass wir stehen bleiben können
+
+Heal:: mit zweitem Gluthitze bzw. Searing Wind bleibt genau gegenüber der Gruppe -- macht genau die gleichen Ausweichbewegungen
+
+_Ifrit beginnt mit erstem Dash_
+
+Gruppe:: CCW laufen pro Dash ein Achtel +
+-> bis zur nächsten Kardinalen wenn Erwachter Ifrit auf Kardinal steht +
+-> bis zur nächsten Interkardinal wenn Erwachter Ifrit auf Interkardinal steht
+also entweder einen "Schritt" oder zwei "Schritte" CCW machen
+
+.Ifrit Dashes
+image::dashes.png[dashes]
+
+
+=== Schaden raushauen
+Während wir in der vorigen Phase eher vorsichtig mit unserem Schaden sein mussten, ist es hier vorteilhaft extra viel davon zu machen!
+Pots werden dafür am Anfang von Ifrit gezogen.
+Läuft der Schaden gut, können Dashes übersprungen werden.
+
+
+=== Übergang
+* Buff einsammeln
+* An äußersten Rand der Arena stellen
+** Eröffnungsschlag von Titan ist distanzbasiert aus der Mitte!

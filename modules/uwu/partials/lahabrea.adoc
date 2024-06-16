@@ -1,0 +1,19 @@
+== Lahabrea
+
+=== Gimmick
+In dieser Phase gibt es keinen wirklichen Kampf, sondern Lahabrea startet eine Abfolge von Mechaniken, die nur mit einer Reihe von verschiedenen LB3s gelöst werden können
+
+. Magischer Fernkämpfer (mit Buff)
+. Heiler (mit Buff)
+. Physischer Nahkämpfer (mit Buff)
+. Verteidiger
+
+Der LB vom magischen Fernkämpfer muss mittig platziert werden, um alle Gegner am Rand der Arena zu treffen.
+
+
+=== Timing
+Der erste LB sollte ausgelöst werden, sobald der Schaden von Schwerer Beschuss (Freefire) (die vier Abstands-AoEs) als Text auf dem Bildschirm erscheint.
+
+Der Heiler-LB sollte gezündet werden, sobald sich wieder bewegt werden kann.
+
+LBs von physischem Nahkämpfer und Verteidiger können dann problemlos gemasht werden, sodass sie zum frühestmöglichen Zeitpunkt ausgelöst werden.

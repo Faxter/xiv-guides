@@ -1,0 +1,51 @@
+== Unterdrückung (Suppression)
+
+https://ff14.toolboxgaming.space/?id=830635036646261&preview=1[Toolbox mit CW-Bewegung der Lichtsäule]
+
+=== Startposition
+.Unterdrückung Startposition
+image::suppression-start.png[suppression start]
+
+
+=== Ablauf
+Nach dem Start fliegt eine Feder am Rand entlang, die bei Berührung tödlich ist! Wegbleiben!
+
+Tanks fangen jeweils eine der Mistral-Linien-AoEs von den beiden Schwestern in der Mitte ab. +
+3 Charaktere erhalten Eruptionen +
+2 Charaktere erhalten Mistral-Marker +
+1 Charakter mit Eruption wird zusätzlich in ein Granitgefängnis (Gaol) gesperrt +
+1 Charakter (ohne Eruption und ohne Mistral) erhält Lichtsäule
+
+Eruption 1:: Richtung Mitte laufen. Die zwei Mistral-Marker erscheinen
+Eruption 2:: Als Gruppe weiter Richtung SO. Mistrals spalten sich ab und laufen SW hinter die Tanks
+Eruption 3:: Gaol-Marker erscheint. Weiter bewegen zum Marker im SO
+Eruption 4:: Gaol-Charakter wird genau auf Marker eingeschlossen. Lichtsäule-Charakter läuft CCW am Rand Richtung Garuda - Vorsicht Feder!
+
+Zwei Mal Feder-Schrei ausweichen. +
+Gaol kaputt hauen.
+
+Das Gefängnis muss sofort angegriffen werden, sobald es anvisierbar wird und dann schnellstmöglich zerstört werden!
+
+==== Lichtsäule
+Alternativ kann die Lichtsäule auch zusammen mit den Mistral-Marks zu den Tanks laufen.
+Dann muss sie aber CW am Rand entlang an Garuda vorbei geführt werden.
+
+Das kann jeder für sich selbst entscheiden, da es dem Rest der Gruppe nicht dazwischenfunkt.
+
+.Unterdrückung Ablauf, Bild von Clees
+image::suppression-clees.png[suppression clees]
+
+Nach dem Granitgefängnis geht es wie folgt weiter:
+
+. Versammeln auf Ost-Marker
+. Doppeltem Bergsturz Richtung SO ausweichen, dann zurück auf Ost-Marker
+. Versammelt bleiben für roten Ifrit-Dreieck-Marker - Fluchflamme (Flaming Crush)
+. Feder-Schrei ausweichen
+
+*MT* hat anderen Ablauf, um sich um den Tether zu kümmern:
+
+. Versammeln auf Ost-Marker
+. Doppelten Bergsturz Richtung N ausweichen
+. Tether aufnehmen
+. Im Norden Tether auflösen lassen
+. Im Norden bleiben und Feder-Schrei mit Bewegung Richtung Gruppe ausweichen

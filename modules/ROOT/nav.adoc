@@ -1,9 +1,7 @@
-= XIV Guides
-
-== Stormblood
+.Stormblood
+* Ultimate
 include::uwu:partial$navlist.adoc[]
 
-== Shadowbringers
-
-== Endwalker
+.Endwalker
+* Anabaseios
 include::anabaseios:partial$navlist.adoc[]

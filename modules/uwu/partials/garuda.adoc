@@ -1,0 +1,41 @@
+== Garuda
+
+https://ff14.toolboxgaming.space/?id=359535529826261&preview=1[Toolbox (nicht komplett LPDU)]
+
+=== Ablauf
+. Boss im Norden lassen und nach Norden drehen, Healer ziehen Mistral nach Süden (durch die Gruppe) -> OT ganz dicht am Boss, setzt Tornado am Boss
+. Boss nach Süden ziehen, Wirbelströmung (Downburst) nach Osten dirigieren
+. Federn spawnen -> OT übernimmt die Dornige und sammelt 2 Stacks. OT cleansed sofort sobald Blase erscheint.
+. Melees + OT sammeln 2 Stacks aus Friction
+.. Friction trifft zufällige Person mit kleiner Fläche - Stacks bekommen nur diejenigen außerhalb der Blase. Deshalb dicht zusammenstehen!
+... Für Windklinge (Friction) 1 entsteht dadurch eine Gruppe, bei der M1+M2+OT außerhalb der Blase sind und der Rest innerhalb
+... Für Windklinge (Friction) 2 stehen dann alle außerhalb
+.. Melees cleansen in Blase direkt nach Windklinge-Casts mit leichtem Versatz (nicht zu lange warten, sonst verschwindet die Blase)
+... Heilung -> M1 -> Heilung -> M2 -> Heilung
+. 2 Schwestern am Rand: MT nimmt CW von NW, OT nimmt CCW von NW
+.. dicht an Schwester stehen, damit man als Erste*r getroffen wird - wo man steht wird Tornado-Fläche abgelegt
+. Boss mittig für Rad der Bosheit (Wicked Wheel), Party stacked SE
+. Meso-High-Tethers: OT Osten, Caster Westen 
+.. zuerst kurz in der Mitte zusammenkommen für Flächenschaden an den Federn
+
+=== Erwachen
+* Garuda erwacht, sobald sie 4 Stacks von Aetherically Charged gesammelt hat
+* Sie erhält eine Ladung für jeden Spieler, der einen 2er-Stack von Tiefdruck (Thermal Low) von sich entfernt
+* Spieler verlieren Tiefdruck (Thermal Low), wenn sie in in der Bubble cleansen oder einen Meso-High-Tether nehmen
+
+=== Schadensbremse
+Das Cleansen durch den Meso-High-Tether war von den Entwicklern ursprünglich nicht gewollt, aber dadurch können wir Garuda länger bekämpfen, ohne sie in den gefährlichen erwachten Zustand zu bringen.
+
+Heutzutage ist unser Schaden oft so hoch, dass wir aufhören müssen, Schaden zu machen, damit wir sie erwachen lassen können, bevor wir sie sofort danach umhauen.
+
+Sie darf auf keinen Fall sterben, bevor sie blau aufleuchtet!
+
+Es ist daher auch üblich, den ersten Pot erst in der nächsten Phase zu nutzen!
+
+=== Übergang
+. Buff einsammeln
+. Sammeln in Mitte, warten bis Ifrit am Rand erscheint
+. 90° von Ifrit wegdrehen, warten bis Feuer-Flächen erscheinen
+.. Safe-Spot erscheint entweder da, wo wir jetzt hinschauen oder genau hinter uns
+.. Wenn vor uns also eine Feuer-Fläche erscheint, können wir sofort nach hinten loslaufen
+.. Sprint hilft, ist aber nicht notwendig

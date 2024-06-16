@@ -1,0 +1,64 @@
+== Ätherknall (Aetheric Boom)
+
+Tank LB3 ziehen für Ultima-Raidwide.
+
+.Ätherknall Startpositionen, Bild von Clees
+image::aetheric-boom.png[aetheric boom]
+
+=== Ablauf
+* Tanks SW, Rest SO
+* Tank LB1
+* Rückstoß von Ultima in südliche Orb-Paare
+* Nach Norden in die verbleibenden Orb-Paare
+
+Sobald sich ein Orb-Pärchen trifft, explodiert es und verursacht Raid-Wipe.
+Der Abstand der Orbs ergibt sich daraus, wie Vernichtung (Annihilation) gespielt wurde (mehr Info an der Stelle zu finden).
+
+Tank LB3 ist notwendig, um die Raidwide am Anfang zu überleben. Die erzeugt gleichzeitig genug Schaden, um sofort einen weiteren LB1 für die Orbs bereit zu haben.
+
+=== Mitigation
+Ultima-Cast:: Tank-LB3
+Knall-Cast:: Tank-LB1 + eine Gruppen-Mitigation (z.B. Taktiker) + 1-2 Reflexion/Stumpfsinn/Zermürben
+Nach Orb-1:: Heilung + Schilde, Tanks persönliche Mitigation
+
+
+== Primae Roulette
+Nach den Orbs im Norden am Rand sammeln.
+
+Das Roulette hat exakt drei mögliche Abfolgen:
+GARUDA -> IFRIT -> TITAN
+TITAN -> IFRIT -> GARUDA
+IFRIT -> GARUDA -> TITAN
+
+=== Mitigation
+Die gruppenweiten Mitigationen sollten möglichst gleichmäßig auf die drei Raidwides des Roulettes verteilt werden.
+
+Vorher einen ungefähren Plan anlegen und/oder Voice-Ansagen für eingesetzte Mitigation nutzen.
+
+=== GARUDA
+. An den Rand der AoE in der Mitte, dann nach innen
+. Aetheroplasma explodiert während der Bewegung nach innen Raidwide
+. Feder-Schrei
+
+=== IFRIT
+. Eruption auf Nord-Marker ablegen
+. Ausweichen zum NW-Marker
+. Aetheroplasma explodiert während dieser Ausweichbewegung
+. Raidwide
+
+=== TITAN
+. Erste Gewichte auf Nord-Marker ablegen
+. Zweite Gewichte auf NW-Marker ablegen
+. Aetheroplasma explodiert kurz nach dem Ablegen vom zweiten Gewicht
+. Dritte Gewichte wieder auf Nord-Marker ablegen
+. Raidwide
+
+
+== Enrage
+Sobald der dritte Primae durch ist, teleportiert Ultima sich in den Norden und erzeugt 2 Aether-Punkte pro Sekunde für ihre Leiste, bis sie auf 100 ist.
+Je nachdem wie viele Punkte durch Tode und Mechaniken schon angesammelt wurden, kann dies länger oder kürzer andauern.
+
+Ultima beginnt dann in umgekehrter Reihenfolge des erzeugten Schadens die Charaktere einen nach dem anderen zu betäuben, in die Luft zu heben und zu exekutieren.
+Also i.d.R. zuerst die Heiler, dann Tanks, dann DDs.
+
+Meiner Erfahrung nach ist es meistens möglich einen weiteren LB3 aufzuladen, der vom Melee genutzt werden kann, sobald Ultima in den Norden teleportiert hat. 

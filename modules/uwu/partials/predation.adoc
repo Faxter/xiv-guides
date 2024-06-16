@@ -1,0 +1,59 @@
+== Predation
+
+Garuda (interkardinal):: Zu einer Kardinalen weg von ihr => 2 Möglichkeiten. +
+Nicht vor Titan stehen. +
+Party darf sich aufteilen.
+Bergsturz:: Warten bis erster Bergsturz hochgeht. Position von Ultima feststellen.
+Runen:: Am Rand entlang bewegen bis zur Mitte der Runen-Zeile. + *WEG* von Ultima!
+Feder:: *WARTEN* auf Schrei - dann nach innen
+
+.Predation Garuda und Titan
+image::predation.png[predation]
+
+.Predation Runen Beispiel 1
+image::predation-runes-1.png[predation runes 1]
+
+.Predation Runen Beispiel 2
+image::predation-runes-2.png[predation runes 2]
+
+In diesem Video zeige ich das schwierigst mögliche Pattern der Mechanik.
+
+* Garuda NE: wir gehen also W oder S
+* Titan S: also bleibt nur W
+* Ultima NW: wir müssen also W nach SW ausweichen
+
+In diesem Fall liegt aber ein Bersturz so, dass wir in Richtung von Ultima vorpositionieren müssen und dann durch den Bergsturz hindurch ausweichen müssen.
+
+video::8gKYp26aD34[youtube]
+
+
+=== Ablauf
+aktive Phase 1 (Start)::
+_Aetheroplasma Tankbuster_: kleine Fläche, innerhalb derer ein Debuff verteilt wird, der nach Ablauf explodiert. Muss alleine abgeholt werden, Explosion dann mit der Gruppe teilen
+
++
+_Laser Tankbuster_: Trifft den Spieler auf Platz 2 in der Aggro-Liste. Zu Beginn sollte also OT voken, dann MT!
+
+aktive Phase 2 (nach Predation)::
+MT::: Boss ein bisschen nach Nord ziehen
+Caster + Ranged::: Nach Süden. Eruptionen regeln.
+Rest::: Sammeln auf MT
+
++
+Warten auf weißen Bildschirm (Flashbang). +
+Nach Norden bewegen zum Rand. +
+In Richtung von Titan bewegen (Ost oder West).
+
+MT::: CW aus der Gruppe raus. Invuln. Voke nach zweitem Tankbuster.
+OT:: CCW bewegen. Voke nach erstem Tankbuster.
+Rest:: CCW bewegen. Gesammelt bleiben während des Ausweichens.
+
++
+Warten auf Feder-Schrei. +
+Ausweichen nach erstem Schrei. Warten +
+Ausweichen nach zweitem Schrei.
+
+
+=== Pots
+Üblich ist es einen Pot zu ziehen etwa 5 Sekunden, bevor Ultima das erste Mal anvisierbar wird.
+Dadurch hält der Pot ziemlich genau, bis Ultima in die Predation-Intermission verschwindet.

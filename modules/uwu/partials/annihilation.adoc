@@ -1,0 +1,90 @@
+== Vernichtung (Annihilation)
+
+https://ff14.toolboxgaming.space/?id=930637786646261&preview=1[Toolbox mit 2211, nicht 3311]
+
+=== Ablauf
+ALLE::
+Versammeln am Fuß SW. Erstem Gewicht nach Osten ausweichen. Zweites zurück nach West.
+Sobald drittes Gewicht erscheint, teilen wir uns auf und jeder erledigt die Aufgaben:
+
+R1::
+. Nach Süden.
+. Tether aufnehmen.
+. Tether auflösen lassen.
+. CCW nach Norden hinter Ultima bewegen.
+. Ersten Ifrit-Dash CCW ausweichen.
+. Doppelten Bergsturz nach innen hin ausweichen (Auge des Sturms).
+. Feder-Schrei ausweichen.
+
+Heiler mit Gluthitze::
+. Nach Westen.
+. Nach Süden bis zum Rand.
+. In ersten Ifrit-Dash hinein ausweichen, dann doppelter Bergsturz nach innen (Auge des Sturms).
+. Nach Süden bewegen.
+. Tether aufnehmen.
+. Tether auflösen lassen.
+. Feder-Schrei ausweichen.
+
+Heiler ohne Gluthitze::
+. Nach Westen.
+. Feder-Schrei ausweichen.
+. CW nach Norden hinter Ultima laufen.
+. Ersten Ifrit-Dash CCW ausweichen.
+. Doppelten Bergsturz nach innen hin ausweichen (Auge des Sturms).
+. Feder-Schrei ausweichen.
+
+OT M2::
+. Nach Osten.
+. Ersten Orb zu dritt mit MT nehmen.
+. Nach Osten - hier Feder-Schrei abwarten.
+. Zweiten Orb nehmen.
+. Nach Norden hinter Ultima.
+. Ersten Ifrit-Dash CCW ausweichen.
+. Doppelten Bergsturz nach innen hin ausweichen (Auge des Sturms).
+. Feder-Schrei ausweichen.
+
+MT::
+. Nach Osten.
+. Ersten Orb zu dritt nehmen.
+. Nach Osten - hier Feder-Schrei abwarten.
+. Zweiten Orb nehmen.
+. Nach Norden hinter Ultima.
+. Ersten Ifrit-Dash CW nach außen aus dem ersten Bergsturz heraus ausweichen.
+. Zweiten Bergsturz nach innen hin ausweichen (Auge des Sturms) und dabei Richtung Orb bewegen.
+. Dritten Orb alleine nehmen.
+. Stehen bleiben und vierten Orb auch alleine nehmen.
+. Feder-Schrei ausweichen.
+
+M1 R2::
+. Nach Norden.
+. Feder-Schrei ausweichen.
+. Nach Norden hinter Ultima.
+. Ersten Ifrit-Dash CCW ausweichen.
+. Doppelten Bergsturz nach innen hin ausweichen (Auge des Sturms).
+. Feder-Schrei ausweichen.
+
+
+=== 3311
+Dieser Ablauf beschreibt die nach LPDU übliche 3311-Taktik. Dies bezieht sich darauf, wie viele Charaktere die vier Orbs nehmen.
+Im ersten Orb stehen drei zusammen, im zweiten wieder drei - dritter und vierter Orb werden von einem alleine genommen.
+
+Die Anzahl Spieler in einer Orb-Explosion bestimmt den Abstand zwischen den Doppel-Orbs im Ätherknall (Aetheric Boom) nach der Unterdrückung-Phase!
+Umso mehr, umso weiter werden die Orbs dann auseinander sein, was uns mehr Zeit gibt, sie dann zu lösen. Gleichzeitig gibt aber jeder Spieler in einer Orb-Explosion auch einen Punkt an die Aether-Leiste von Ultima.
+
+Als Gruppe kann man sich also auch auf andere Konstellationen einigen wie z.B. 2211.
+
+
+=== Tankbuster
+Nach Vernichtung springt Ultima in die Mitte und führt den Laser-Tankbuster auf den zweiten in der Aggro-Liste aus.
+OT sollte das sein und muss sich dafür aus der Gruppe herausbewegen.
+
+
+=== Übergang
+Ultima beginnt mit der Unterdrückung (Suppression)-Phase, sobald die Lebensleiste unter 50% gefallen ist.
+Das ist heutzutage üblicherweise kurz nach dem zuvor erwähnten Tankbuster der Fall.
+
+Sollte das nicht der Fall sein, folgen nun noch einige Ausweich-Mechaniken, ein cleave-Tankbuster auf MT und dann ein weiteres Auge des Sturms mit Knockback, der weg-geschildet werden kann.
+Ultima wird innerhalb dieser Mechaniken rotieren, bis 50% unterschritten werden.
+
+Es ist möglich, Ultima in einer Angriffsanimation "festzuhalten" und so deutlich unter 50% zu drücken, bevor Unterdrückung beginnt.
+In meiner Erfahrung ist sie noch mit dem Laser-Tankbuster auf OT beschäftigt und sinkt auf etwa 42% vor dem Übergang.

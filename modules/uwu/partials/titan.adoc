@@ -1,0 +1,90 @@
+== Titan
+
+https://ff14.toolboxgaming.space/?id=463534803605261&preview=1[Toolbox]
+
+=== Granitgefängnis (Gaols)
+Urtrauma (Upheaval):: Blickrichtung von Titan beachten, gegenüber zum Rand laufen +
+-> dicht an ihn ran
+
+Felsbrocken:: feststellen, ob Safe-Spot links oder rechts
+-> Knockback-Positionen sind ziemlich exakt, s. Bild
+
+Gaols:: 3 Spieler außer MT werden mit Gaol markiert +
+-> alle laufen SOFORT los; auf den Safe-Spot fällt ein weiterer Stein +
+-> Gruppe raus auf Safe-Seite (wenn links, dann links und andersum) +
+-> Gaols auf andere Seite vom Landslide, mit Ziel Mittellinie
+
+.Gaols Knockback Positionen
+image::gaols-knockback.png[gaols knockback]
+
+.Gaols Laufwege
+image::gaols-directions.png[gaols directions]
+
+.Gaols Ablage-Positionen (Bild von Clees)
+image::gaols-positions.png[gaols positions]
+
+
+==== wer geht wo hin?
+Verschiedene Ansätze funktionieren. Das muss jede Gruppe für sich finden!
+
+Auto-Marker:: vom PF präferiert
+YOLO:: Einfach irgendwie - wird schon hinhauen
+Prio-Liste:: vorne - OT M1 M2 R1 R2 H1 H2 - hinten
+Voice-Chat Callouts:: in TeamSpeak, Discord o.Ä. ansagen
+"Sac-Strat":: MT + Heiler + ein weiterer Charakter lösen die Mechanik immer gleich +
+der Rest der Gruppe lässt sich mit dem Knockback töten +
+so wird jeglicher Zufall entfernt und jeder kann immer dasselbe tun
+Makro:: `/mk attack <me>`
+
++
+*Ausführung*: jeder, der mit Gaol markiert ist, drückt die Taste mit diesem Makro ein Mal. Alle anderen dürfen die Taste nicht drücken.
+
++
+*Erklärung*: Dadurch dass als Mark nur "attack" gesetzt wird, reagiert Final Fantasy so, dass das Mark mit der niedrigsten & nicht vergebenen Zahl gesetzt wird. +
+Soll heißen: Wenn ich die Taste drücke und Attack-Mark 1 und 2 schon im Spiel sind, erhalte ich die 3. +
+Wenn also alle drei Spieler mit den Gaols diese Makro-Taste jeweils genau ein Mal drücken, bekommen sie 1, 2, 3 zugwiesen und können sich entsprechend verteilen.
+
+
+=== Nach Gaols
+Nach der Kettenreaktion der Gaols sammeln sich alle vorne links bei Titan.
+Hier werden Gewichte abgelegt und dann kommt die erste Landslide im erwachten Zustand.
+Hierbei wird wie bisher angezeigt, wo diese passieren werden - und nach dem ersten kommt sofort ein zweiter Satz Landslides zwischen den vorigen.
+
+Um dem korrekt auszuweichen, warten wir nah an der ersten (angezeigten) und bewegen uns sofort dort hinein, sobald sie hochgeht. Dadurch sind wir auf jeden Fall außerhalb der zweiten (nicht angezeigten) Landslide.
+
+video::n7JkRmzMuw4[youtube]
+
+
+=== Erwecken
+Titan erhält einen Stack für alle paar Sekunden, die er in einer Pfütze aus einer Gaol-Explosion herumsteht.
+Da es keine Gelegenheit gibt, ihn in eine solche zu ziehen, müssen wir ein Gaol zu ihm bringen und explodieren lassen.
+Die drei markierten Spieler müssen also ihre Gaols so ablegen, dass sie in einer Kettenreaktion explodieren und die letzte Pfütze dabei so entsteht, dass Titan darin steht. Während er dann Tumult ausführt, steht er lange genug darin um alle vier Stacks zu sammeln.
+
+
+=== Heiler Granitgefängnis (Gaol)
+Danach springt Titan noch einmal in eine zufällige Kardinale und sperrt einen Heiler in ein Gaol.
+Dieses muss sofort zerstört werden - oder erst nachdem der nächste doppelte Bergsturz durch ist.
+Es kann ansonsten sein, dass wir den Heiler so befreien, dass dieser dem Bergsturz nicht mehr ausweichen kann und aus der Arena gefegt wird! (Im Gaol gilt gewissermaßen Immunität gegenüber den Bergstürzen)
+
+
+
+=== Dreifaches Gewicht + Doppelter Bergsturz
+Nach einer weiteren Tankbuster-Kombo feuert Titan eine Abfolge von sich überlagernden Mechaniken ab.
+Die Mitte wird von herabfallenden Steinen getroffen. Alle versammelt auf MT stehen und dann teilen sich Nah- und Fernkämpfer in zwei Vierergruppen:
+Nahkämpfer gehen CCW -> CW -> CCW bzw. rechts -> links -> rechts
+Fernkämpfer gehen CW -> CW -> CW bzw. links -> links -> links
+
+Jedes Mal bis zum Rand des Gewichts und dort das nächste ablegen.
+Es kann sein, dass eine Gruppe keine Gewichte ablegt, weil alle in der anderen Gruppe ausgewählt worden sind. In diesem Fall muss die Gruppe trotzdem die Bewegung durchführen, damit der doppelte Bergsturz in die richtige Richtung geht!
+
+Titan darf für dieses Gewusel nicht zu weit am Rand stehen, sonst haben die Nahkämpfer nicht genug Platz.
+
+
+=== Schaden
+Heutzutage sollte Titan bei einer sauberen Runde schon vor dem dreifachen Gewicht am Ende sein.
+Im Prog ist jedoch davon auszugehen, dass das Gewusel regelmäßig gespielt wird.
+
+
+=== Übergang
+. Buff einsammeln
+. In Mitte versammelt stehen

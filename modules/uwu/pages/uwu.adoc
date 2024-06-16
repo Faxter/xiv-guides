@@ -1,0 +1,64 @@
+= Heldenlied von Ultima (fatal)
+
+
+== Info
+* *Unlock*: Sigmascape V4.0 Savage "Kefka"
+* *Gear Sync*: zu iLvl 370, aktuelles BiS >500 reicht
+** Kleine Optimierungen sind möglich
+* *Enrage*: ca. 15:30 min - Dauer bei sauberem Lauf ca. 13 min
+* *Loot*: 1x Ultima Totem für jeden (Umtausch bei Eschina in Rhalgr)
+
+=== Quellen und Ressourcen
+* https://www.icy-veins.com/ffxiv/the-weapons-refrain-ultimate-guides-hub[Text auf icy-veins von Clees mit LPDU-Anpassungen]
+* http://clees.me/guides/uwu/[Text original Clees]
+* https://docs.google.com/document/d/1J7p5YXUNsaxt2jhfNbxyy89ukBDLo1IDVMqEb-ZvmB0[Text 2-Second-Raid]
+* https://www.youtube.com/watch?v=PwEVH50b-rg&ab_channel=TessanTwintails[Video LPDU]
+* https://www.youtube.com/watch?v=z8Z54eXcTmE&ab_channel=Faxter313[Clear Video MT-PoV]
+
+
+=== Marks
+.Marks für LPDU
+image::marks.png[marks]
+
+=== Besondere Mechanik: Erwachen
+Die drei Primae können alle durch bestimmte Aktionen in einen erwachten Zustand versetzt werden.
+Zu erkennen ist das an einem blauen Leuchten und einem entsprechenden Buff.
+
+Erwachte Primae machen mehr Schaden und deren Mechaniken erhalten zusätzliche Komplexität.
+
+Alle drei Primae-Phasen lassen sich beenden ohne sie erwachen zu lassen. In diesem Fall wird man zwar die vierte Phase erreichen - kann diese aber nicht abschließen!
+
+Ein erwachter Primae hinterlässt beim Tod einen leuchtenden Fleck auf dem Boden, der eingesammelt werden kann. Dies verleiht dem Charakter einen Buff, der die Limit-Leiste nach einem LB3 sofort wieder auffüllt. Nur mit drei von diesen Buffs ist Phase 4 zu schaffen; deshalb müssen alle Primae erweckt werden!
+
+Wer sammelt die Flecken ein:
+
+. Healer
+. Caster
+. Melee
+
+LPDU nutzt i.d.R. diese Reihenfolge - ist aber natürlich je nach Gruppe anpassbar.
+
+=== Besondere Mechanik: Ultima Aether
+
+Ultima selbst hat eine Leiste, in der sie Aether-Punkte sammelt. Bekommt sie 100 Punkte, erhält sie einen Schadens-Buff, was dann i.d.R. einen schnellen Raid-Wipe zur Folge hat.
+
+Gewisse Fähigkeiten von Ultima erzeugen Aether-Punkte. Bei manchen werden mehr Punkte erzeugt, je mehr Charaktere an der Mechanik teilnehmen.
+
+Jeder Tod von einem Charakter erzeugt zusätzlich 4 Punkte!
+
+
+include::uwu:partial$garuda.adoc[]
+
+include::uwu:partial$ifrit.adoc[]
+
+include::uwu:partial$titan.adoc[]
+
+include::uwu:partial$lahabrea.adoc[]
+
+include::uwu:partial$predation.adoc[]
+
+include::uwu:partial$annihilation.adoc[]
+
+include::uwu:partial$suppression.adoc[]
+
+include::uwu:partial$ending.adoc[]

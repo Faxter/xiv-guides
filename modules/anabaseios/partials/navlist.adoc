@@ -1,3 +1,2 @@
-.Anabeseios
-* xref:anabaseios:p12s-1.adoc[P12S-1]
-* xref:anabaseios:p12s-2.adoc[P12S-2]
+** xref:anabaseios:p12s-1.adoc[P12S-1]
+** xref:anabaseios:p12s-2.adoc[P12S-2]

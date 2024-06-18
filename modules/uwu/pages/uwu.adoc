@@ -1,5 +1,4 @@
 = Heldenlied von Ultima (fatal)
-:figure-caption: Bild
 
 == Info
 * *Unlock*: Sigmascape V4.0 Savage "Kefka"

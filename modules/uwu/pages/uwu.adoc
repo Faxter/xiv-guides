@@ -1,5 +1,4 @@
 = Heldenlied von Ultima (fatal)
-:page-docdate: {docdate}
 
 == Info
 * *Unlock*: Sigmascape V4.0 Savage "Kefka"

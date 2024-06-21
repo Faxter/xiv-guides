@@ -1,5 +1,4 @@
 = Anabaseios - Der Zwölfte Kreis (Episch): Phase 1 - Athena
-:page-docdate: {docdate}
 
 == Quellen und Ressourcen
 * https://docs.google.com/spreadsheets/d/1hxXOR_3sQM8hr6zwMG2aBuEoNft4RVroHv8C9WmsGmU/edit?pli=1#gid=793239696[Timeline Google Doc]

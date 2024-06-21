@@ -1,0 +1,16 @@
+= Alexander (fatal)
+
+== Info
+****
+**Unlock**: Edens Erwachen - Beerdigung (Episch) "E4S - Titan", dann Quest in Kugane +
+**Gear**: Sync zu iLvl 475, BiS >595 reicht +
+**Level**: 80 +
+**Enrage**: ca. 17 min +
+**Loot**: 1x Colossus Totem für jeden (Umtausch bei Bertana in Frohehalde)
+****
+
+=== Quellen und Ressourcen
+* https://discord.com/channels/840349073210867722/1045011456757866666[LPDÜ Discord Thread]
+* https://www.youtube.com/playlist?list=PLiu2jxnYHL3jbuh2oFszqHGouI-nzCHCy[Video Playlist Alninio]
+* https://www.icy-veins.com/ffxiv/the-epic-of-alexander-ultimate-guides-introduction[Text icy-veins]
+* https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg/edit#gid=917445177[Tank Mitigation Tabelle]

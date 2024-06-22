@@ -1,0 +1,73 @@
+== Limit Cut (LC)
+
+=== Toolbox
+https://ff14.toolboxgaming.space/?id=240411819443951&preview=1
+
+=== LPDU Notizen
+****
+1256 West - Nordost +
+3478 Ost  - Südwest +
+Aktive Zahlen lösen Mechaniken auf dem inneren Kreis, inaktive Zahlen bewegen sich auf dem äußeren Kreis.
+****
+
+=== Ablauf
+
+.Zuordnung der Zahlen
+image::TEA-LC-1256.png[1256]
+
+Cruise Chaser erscheint hinter ungerader Nummer und schlägt dann mit (sehr großer) Kegel-AoE vor sich. +
+Danach dreht er sich zur nachfolgenden geraden Nummer und dasht diese an. Sollte der angedashte Charakter nicht direkt zu CC schauen, gibt es (sehr weiten) Knockback. Jeder wird also von irgendwas getroffen und erhält dabei einen Vuln-Stack - wer von 2 Sachen getroffen wird, stirbt.
+
+Gleichzeitig passiert Optical Sight: Kreis-AoEs erscheinen. Immer 2 gleichzeitig, immer gegenüber voneinander. +
+Bewegen sich immer im Uhrzeigersinn. +
+4 Sets, dann eine in der Mitte, dann nochmal 4 Sets und zum Schluss noch eine in der Mitte.
+
+Zuerst merken, welche Zahl über dem Kopf angezeigt wird.
+
+Dann schauen, wie das erste Set Kreise erscheint. +
+Exakt 4 Möglichkeiten:
+
+* N+S
+* NE+SW
+* W+E
+* NW+SE
+
+Wir teilen uns in zwei Gruppen: 1256 gehen zur Fläche W bis NE; 3478 E bis SW +
+Wir folgen dieser Fläche im Uhrzeigersinn für den Rest der Mechanik.
+
+Wer zuerst dran ist, bewegt sich auf dem inneren Ring. Die anderen vier bleiben erstmal auf dem äußeren Ring.
+
+.Startposition
+image::TEA-LC-start.png[lc start]
+
+UNGERADE VOR:: direkt an der Fläche stehen, um den Kegel dort hinein zu baiten
+GERADE ZURÜCK:: kurz hinter der ungeraden Person stehen und CCs Hintern betrachten, um dann einen möglichst kurzen Dash zu empfangen
+
+.Attacken von Cruise Chaser
+image::TEA-LC-CC-attacks.png[lc cruise chaser attacks]
+
+Wer eine Attacke von CC gebaitet hat ist "fertig" und wechselt auf den äußeren Ring. +
+Auf dem äußeren Ring ist grundsätzlich darauf zu achten, nicht im Kegel, nicht im Dash und nicht in den rotierenden Flächen zu stehen!
+
+=== Mitzählen
+Es kann helfen, die Explosionen der rotierenden Flächen mitzuzählen. +
+Ziel davon ist es, die Pause in der Rotation der Flächen zu erkennen, während eine Fläche die Mitte trifft.
+
+[cols="1,5"]
+|===
+|# Explosion|Aktion
+
+|0|Zahl merken
+|1|zur zugewiesenen Fläche nach außen bewegen
+||aufteilen in 2 Vierer-Gruppen
+||dabei links von der schwarzen Linie auf Arena-Boden bleiben
+|2|nach rechts abbiegen und um Uhrzeigersinn weiterlaufen
+|3|
+|4|maximal eine Achtel-Drehung in die Fläche hineinlaufen
+|Mitte|Stopp!
+|1|Weiter!
+|2|
+|3|
+|4|
+|Mitte|Ende von LC
+|===

@@ -1,0 +1,103 @@
+== Living Liquid (LL)
+
+=== Toolbox
+https://ff14.toolboxgaming.space/?id=830419115443951&preview=1
+
+=== LPDU Notizen
+****
+Bosse auseinander ziehen für erste Gebets-Hand, dann MT Herausforderung auf Hand und invuln.
+
+Throttle: +
+Regen Heiler startet mit sich selbst sofern nötig, dann von oben nach unten +
+Shild Heiler startet mit sich selbst sofern nötig, dann von unten nach oben
+****
+
+=== Intro
+Es erscheinen drei Wasserhosen an zufälligen Kardinalen, die jeweils eine Welle zum dichtest positionierten Charakter schießen.
+
+* Die offene Seite als relatives Nord nehmen.
+* R1 rechter Tornado (relatives Ost)
+* R2 linker Tornado (relatives West)
+* MT mittlerer Tornado + Invuln für Cleaves
+
+.erste Wasserhosen
+image::TEA-LL-intro.png[ll intro]
+
+Der Boss trennt eine Hand von sich ab und verliert dabei 50% seiner HP.
+LL wird sofort nach SW gezogen, OT übernimmt Hand und zieht sie etwas nach NE (nicht zu weit, MT muss noch mit voke rankommen).
+Sobald die Hand aufleuchtet, übernimmt MT die Hand und zieht sie dadurch mit LL zusammen.
+MT zieht nach den Tankbustern beide zur Mitte.
+
+[IMPORTANT]
+*Info zu Hand of Pain:*
+Die Hand klatscht in gewissen Abständen auf den Boden.
+Bei diesem Check wird geprüft, ob LL und Hand in etwa gleiche HP haben (± 5 %-Punkte). Wenn die beiden weiter auseinander sind, werden alle getötet.
+LL und die Hand müssen deshalb möglichst immer gleichmäßig heruntergehauen werden.
+Die Phase ist aber vorbei, sobald LL auf 0 HP ist - egal wie viel die Hand noch hat!
+
+=== Puppen
+Puppen werden dem ersten Charakter zugeordnet, der ihnen Schaden zufügt.
+Melees nehmen die relativ südlichen, Ranges die relativ nördlichen.
+
+* Puppen müssen alle an LL oder Hand "verfüttert" werden mit <25% HP
+* Wird eine Puppe getötet, explodiert sie und wiped den Raid
+* Wird eine Puppe mit >25% HP verfüttert, explodiert sie und wiped den Raid
+* Jede Puppe führt gelegentlich Exhaust aus und verteilt damit einen Debuff (2 Stacks sind tötlich)
+* Beim korrekten Verfüttern entsteht trotzdem noch raidweiter Schaden
+
+M1:: nach erstem Exhaust etwas in die Mitte ziehen, dann verfüttern => https://clips.twitch.tv/BumblingSlickKangarooTBTacoLeft-1sDMNkU4sAqb121a
+(dadurch nimmt die Puppe weniger Schaden von den Tanks und erlaubt etwas mehr Zeit für die Mechanik)
+
+M2:: direkt nach M1 verfüttern, kann fast gleichzeitig sein (Abstimmung mit Heilern erforderlich)
+
+R1/R2:: verfüttern erst nach zweitem Exhaust ihrer Puppe. Vorsicht: Puppe darf nicht vorher sterben! Nicht zu dicht an AoE-nutzende Spieler bringen.
+
+.Zuweisung der Puppen
+image::TEA-LL-dolls.png[dolls]
+
+=== Fluid Swing
+Fächer-Tankbuster +
+MT: Boss nach SE +
+OT: Hand nach SW
+
+=== Protean 1
+Angezeigte Proteans: Tanks Süd, Gruppe Nord
+
+Dann 4 Proteans auf die 4 dichtesten Spieler + eine weitere direkt vorm Boss +
+=> Melees baiten diese +
+Gleichzeitig Sluice auf die 4 weitesten Spieler +
+=> Ranges baiten jeweils zwei aufeinander
+
+Dann nochmal 4 Proteans auf die 4 dichtesten Spieler + eine weitere direkt vorm Boss +
+=> Ranges übernehmen diese +
+=> M1 + M2 zu Tanks +
+=> alle Melees raus auf max-melee-Distanz, um nix abzubekommen
+
+.Protean 1
+image::TEA-LL-Protean-1.png[protean 1]
+
+=== Protean 2
+Angezeigte Proteans: Nord und Süd +
+=> in die Gruppe stellen, wo man schneller in zweite Position kommt
+
+Dann 4 Proteans auf die 4 dichtesten Spieler + eine weitere vorm Boss +
+=> Melees baiten das
+Gleichzeitig 4 Sluices auf 4 weiteste Spieler + je eine Protean von jedem Tornado auf dichtesten zum jeweiligen Tornado +
+=> Ranges baiten das
+
+Danach nochmal 4 Proteans auf die 4 dichtesten Spieler + eine weitere vorm Boss +
+=> Ranges kommen dafür nach innen
+Gleichzeitig nochmal je eine Protean von jedem Tornado auf dichtesten zum jeweiligen Tornado +
+=> Melees regeln das +
+=> MT geht max-melee-Distanz
+
+[IMPORTANT]
+dadurch dass OT zum Tornado läuft werden LL und Hand getrennt  => Bait von nächster Hand-Attacke auf 'stacken'
+
+.Protean 2
+image::TEA-LL-Protean-2.png[protean 2]
+
+=== Möglichkeit für Skip
+Wenn beim Hand of Pain Check nach Protean 2 die HP von LL bei etwa 12% sind:
+Voller Fokus auf LL - wenn Damage reicht, stirbt LL vor Ende von Splashes.
+(wenn nicht, Wipe durch Hand of Pain Check nach Splashes)

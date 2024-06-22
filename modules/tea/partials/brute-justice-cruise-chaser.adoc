@@ -1,0 +1,71 @@
+== Brute Justice & Cruise Chaser (BJ + CC)
+
+=== Toolbox SPLIT-Strategie
+https://ff14.toolboxgaming.space/?id=340414049443951&preview=1
+
+=== LPDU Notizen
+****
+Split Strategie
+
+Blitz: DPS -> BJ Tank -> Heiler mit erstem Wasser -> CC Tank
+
+Wasser: West -> Nordost -> Nordost
+
+DDs sind verantworlich für das Abgeben von Nisi. Drittes Abgeben in einer vertikalen Linie von BJ-Tank -> Shild-Heiler -> Regen-Heiler -> CC-Tank von Norden nach Süden genau durch die Mitte. DDs nehmen oder geben ab je nachdem, was nötig ist.
+
+Gavel: BPOG
+(Eis ->) Blau -> Purpur -> Orange -> Grün. Aktive Nisis zuerst, um Gewusel einzuschränken.
+
+Physischer Fernkämpfer baitet Super Jump.
+****
+
+=== Ziel der Phase
+Cruise Chaser (CC) kennen wir bereits aus Limit Cut - der taucht jetzt zusammen mit Brute Justice (BJ) auf.
+Sobald einer von beiden Gegnern down ist, beginnt der andere seinen Enrage - es müssen also beide besiegt werden!
+
+BJ verteilt Nisi-Debuffs in vier verschiedenen Geschmacksrichtungen (α, β, γ, δ) (lies: alpha, beta, gamma, delta).
+Die Debuffs können per Kontakt übertragen werden.
+Wer zwei unterschiedliche Nisis hat, stirbt.
+
+Gegen Ende erhalten alle sowas wie einen "Soll"-Debuff. Wenn am Ende des Casts irgendein Soll nicht erfüllt ist: Wipe.
+
+Demnach müssen die Nisis bis zum Ende erhalten bleiben, indem sie zu bestimmten Zeitpunkten weitergegeben werden, bevor sie ablaufen.
+Niemals so, dass jemand zwei unterschiedliche erhält und so, dass am Ende jeder das geforderte Nisi hat.
+
+[NOTE]
+Nisi ist Latein und heißt 'wenn nicht'. Wird im Gericht genutzt, um ein vorläufiges Urteil zu sprechen im Sinne von "wenn Bedingung X nicht erfüllt wird, erfolgt Strafe Y zum Zeitpunkt Z"
+
+=== Zuordnung und Start
+
+* Melees + MT => BJ
+* Ranges + OT => CC
+
+MT nimmt BJ, OT nimmt CC, in der Mitte zusammenziehen.
+
+Alle auf Startpositionen in Nisi Spread
+
+.Nisi Spread
+image::TEA-BJ-CC-nisi-spread.png[nisi spread]
+
+=== Chakrams + Nisi Pass 1️⃣
+Sobald die Chakrams (aka Beyblades, aka Kettensägen) auftauchen: nach außen laufen.
+Auslöser zum Loslaufen ist entweder Sound-Effekt von den Kreiseln oder der Moment, in dem die beiden in der Gegner-Liste auftauchen.
+
+Wer dabei direkt auf ein Beyblade zuläuft, muss entsprechend leicht justieren, um auszuweichen.
+Das soll immer IM UHRZEIGERSINN erfolgen. Im Beispiel sind die Kreisel N/S. Spawns sind zufällig, aber immer gegenüber voneinander!
+
+Melees können wie gezeigt an BJ dranbleiben, der Rest sollte wie Nisi-Spread nach außen verteilt sein.
+
+.Chakrams
+image::TEA-BJ-CC-chakrams.png[chakrams]
+
+Sobald die Chakrams durch sind, sofort zurück in die Mitte auf Nisi-Spread Position!
+
+Warten auf Photon, was die HP von allen auf 1 setzt. Das ist der Auslöser für den ersten Nisi-Pass. +
+DDs rotieren CCW auf ihre*n Nisi-Partner*in, während sich die Heiler um die HP kümmern.
+
+OT:: schnellstmöglich CC nach Süden drehen, um Spin Crusher nach außen zu baiten (Cleave in Blickrichtung ohne Ankündigung)
+
+.Nisi Pass 1
+image::TEA-BJ-CC-nisi-pass-1.png[nisi pass 1]
+

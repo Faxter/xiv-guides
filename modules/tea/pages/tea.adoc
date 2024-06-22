@@ -14,3 +14,32 @@
 * https://www.youtube.com/playlist?list=PLiu2jxnYHL3jbuh2oFszqHGouI-nzCHCy[Video Playlist Alninio]
 * https://www.icy-veins.com/ffxiv/the-epic-of-alexander-ultimate-guides-introduction[Text icy-veins]
 * https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg/edit#gid=917445177[Tank Mitigation Tabelle]
+
+=== Marks
+----
+{"Name":"LPDU","MapID":694,"A":{"X":100.018,"Y":0.0,"Z":86.689,"ID":0,"Active":true},"B":{"X":112.766,"Y":0.0,"Z":91.446,"ID":1,"Active":true},"C":{"X":100.034,"Y":0.0,"Z":113.141,"ID":2,"Active":true},"D":{"X":86.238,"Y":0.0,"Z":100.036,"ID":3,"Active":true},"One":{"X":107.393,"Y":0.0,"Z":99.91,"ID":4,"Active":true},"Two":{"X":113.77,"Y":0.0,"Z":99.932,"ID":5,"Active":true},"Three":{"X":100.019,"Y":0.0,"Z":107.495,"ID":6,"Active":true},"Four":{"X":107.488,"Y":0.0,"Z":107.503,"ID":7,"Active":true}}
+----
+
+.Marks
+image::marks.png[marks]
+
+=== Besondere Mechanik: Enigma Codex
+In Phase 3 des Kampfes (Alexander Prime) erscheint das "wahre Herz" Alexanders als Add.
+Dieses bewegt sich zunächst etwas durch die Arena und wird dann von Alexander aufgenommen, wodurch die finale Form von Alexander erschaffen wird.
+Wird das Herz von vier Judgement Crystals berührt, wird es aufgewertet zum goldenen Herzen und verteilt dann den Buff 'Enigma Codex' an alle.
+
+Enigma Codex ist notwendig, um die Mechaniken in Phase 4 bestehen zu können.
+Es erschafft Klone der Charaktere, die es erst möglich machen, alle Aufgaben zu erledigen.
+
+
+include::tea:partial$living-liquid.adoc[]
+
+include::tea:partial$limit-cut.adoc[]
+
+include::tea:partial$brute-justice-cruise-chaser.adoc[]
+
+include::tea:partial$inception.adoc[]
+
+include::tea:partial$wormhole.adoc[]
+
+include::tea:partial$perfect-alexander.adoc[]

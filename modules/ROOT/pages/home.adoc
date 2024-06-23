@@ -4,6 +4,7 @@
 include::uwu:partial$navlist.adoc[]
 
 == Shadowbringers
+include::tea:partial$navlist.adoc[]
 
 == Endwalker
 include::anabaseios:partial$navlist.adoc[]

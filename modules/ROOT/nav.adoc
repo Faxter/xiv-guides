@@ -2,6 +2,10 @@
 * Ultimate
 include::uwu:partial$navlist.adoc[]
 
+.Shadowbringers
+* Ultimate
+include::tea:partial$navlist.adoc[]
+
 .Endwalker
 * Anabaseios
 include::anabaseios:partial$navlist.adoc[]

@@ -1,0 +1,157 @@
+== Wormhole + J-Waves
+
+=== Toolbox
+https://ff14.toolboxgaming.space/?id=236244852760461&preview=1
+
+=== LPDU Notizen
+****
+Mit Blick zu Alexander: Ungerade Zahlen nach rechts (true West), gerade Zahlen nach links (true Ost)
+
+Enumerationen: Heiler nach rechts (true West), Tanks nach links (true Ost)
+
+J Waves: Mitigationen nutzen ab etwa Welle 6-7
+****
+
+=== Intermission
+Alexander verschwindet wieder und erscheint dann am Rand im Süden. +
+Gleichzeitig erscheinen CC und BJ am Rand NW und NO - welcher von den beiden wo erscheint ist zufällig. +
+Wir blicken in Richtung Alexander und verteilen uns lose, damit die Zahl über dem Kopf gut erkennbar ist.
+
+Dabei aber möglichst dicht am Zentrum bleiben, denn die Richtungen der Chakrams werden zeitgleich zur Anzeige der Zahlen festgesetzt! Im Zweifel dichter rein und hüpfen, um die eigene Zahl zu erkennen.
+
+.Intermission
+image::TEA-AP-wormhole-1.png[intermission]
+
+=== Void of Repentance
+Mit Blick zu Alex gehen die ungeraden Zahlen nach rechts.
+
+1, 2, 3, 4::
+* stellen sich auf die roten Markierungen im Arena-Boden auf jeder Interkardinalen
+* 3 & 4 nach vorn zu Alexander
+* 1 & 2 nach hinten
+
+5, 6, 7, 8::
+** stellen sich paarweise in hinterer Hälfte an den Rand
+** zwischen 1/2 und der Kardinalen
+** Warten darauf, dass die Chakrams auf den Kardinalen durchfliegen
+
+Die großen Pfützen können auch andersrum liegen!
+
+.Wormhole Start
+image::TEA-AP-wormhole-2.png[wormhole start]
+
+Sobald die Chakrams auslösen, beginnt CC mit Limit Cut und macht genau das gleiche wie in der LC-Phase (erscheint hinter ungerade, dasht zu gerade). +
+Gleichzeitig macht BJ seinen Super Jump auf den weitest von ihm entfernten Charakter, dreht sich um und nutzt die riesige Keil-Fläche Apocalyptic Ray. +
+Währenddessen müssen die großen Pfützen von einzelnen Charakteren besetzt werden, wodurch diese jedes Mal schrumpfen bis sie dann verschwinden.
+
+1, 2::
+* Anti-Knockback
+* aus der Arena rausgucken
+
+3, 4::
+* derjenige gegenüber von BJ wird angesprungen
+* Schritt zur Seite machen weg von Alex, um Keil auszuweichen
+
+5, 6::
+* erster Soak
+
+7,8::
+* Warteposition außerhalb der Pfütze einnehmen
+
+.Wormhole Soak 1
+image::TEA-AP-wormhole-3.png[wormhole soak 1]
+
+1, 2::
+* warten, um sicherzustellen, dass Apocalyptic Ray in die richtige Richtung geht
+* tauschen mit 5, 6
+* Warteposition auf Ost bzw. West
+
+3, 4::
+* Anti-Knockback
+* aus der Arena rausgucken
+
+5, 6::
+* tauschen mit 1, 2
+
+7, 8::
+* zweiter Soak
+
+.Wormhole Soak 2
+image::TEA-AP-wormhole-4.png[wormhole soak 2]
+
+1, 2::
+* dritter und letzter Soak
+
+3, 4::
+* Safe-Spot Ost bzw. West
+
+5, 6::
+* Anti-Knockback
+* aus der Arena rausgucken
+
+7, 8::
+* tauschen mit 3, 4
+* wenn Pfütze weit weg => Sprint
+
+.Wormhole dritter Soak
+image::TEA-AP-wormhole-5.png[wormhole soak 3]
+
+7, 8::
+* Anti-Knockback
+* aus der Arena rausgucken
+Rest::
+* Richtung Mitte bewegen
+
+=== Incinerating Heat
+Sofort nach (besser schon während) letztem CC Dash in Mitte sammeln für Stack-Mark. +
+Trifft zufälligen Charakter.
+
+=== Enumerationen
+Trifft zwei zufällige DDs. +
+Es werden zwei Dreier-Stacks gebildet: einer links, einer rechts mit Blick auf Alexander.
+
+Tanks::
+beide links (true Ost)
+
+Heiler::
+beide rechts (true West)
+
+DDs ohne Enum::
+draußen bleiben!
+
+.Enumerationen
+image::TEA-AP-wormhole-6.png[wormhole enumerations]
+
+==== DD Kombinationen
+* Gruppe 1 links & Gruppe 2 rechts für die Fälle 
+** M1 + R2
+** R1 + M2
+* Melee flext auf andere Seite für die Fälle
+** M1 + R1
+** M2 + R2
+
+=== J Waves
+Alexander zündet zwei große Raidwides (Mega Holy) und beschwört dann CC und BJ in die Arena. +
+Alle drei beginnen ihren Enrage. +
+CC muss zuerst besiegt werden, dann BJ und Alexander zum Schluss.
+
+BJ nutzt periodisch Raidwides (J Wave) und erhält jedes Mal einen Buff, der ihm zusätzlichen Schaden erlaubt. +
+Gruppenweite Mitigation sollte aufgehoben werden bis J Wave Nummer 6 (ablesbar am Buff-Stack).
+
+Während der J Waves sind viele Flächen-Heilungen/Schilde erforderlich. Je schneller BJ besiegt ist, umso weniger Last liegt bei den Heilern. Bei mehr als 12 J Waves ist es kaum noch möglich gegen den Schaden anzuheilen.
+
+Nach diesem Heilungs-Check ist es ein Schaden-Check, um Alexander vor Ende seines Enrage zu besiegen.
+
+=== Übergang
+Vor dem Phasenwechsel startet Alexander einen Countdown. +
+Bei etwa 3 Sekunden dieses Countdowns, muss *Tank-LB-3* gezogen werden, um den Abschlussangriff dieser Phase zu überleben
+
+=== Koreanischer Simulator
+Es gibt ein kleines Fan-Projekt, in dem jemand die Wormhole-Mechanik als Standalone entwickelt hat. +
+Hiermit lässt sich die Mechanik in allen beliebigen Möglichkeiten üben, ohne auf eine Gruppe angewiesen zu sein
+
+[CAUTION]
+Das Programm ist vollständig unabhängig von Square Enix - Nutzung erfolgt auf eigene Gefahr.
+
+Zu finden ist das Paket dafür z.B. im LPDÜ-Discord hier (sucht nach TEA_Simulator.zip): +
+https://discord.com/channels/840349073210867722/1045011456757866666/1110358821831983133

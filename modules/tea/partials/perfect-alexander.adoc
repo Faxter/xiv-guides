@@ -1,0 +1,241 @@
+== Perfect Alexander
+
+=== Toolbox
+https://ff14.toolboxgaming.space/?id=205867198660661&preview=1
+
+=== LPDU Notizen
+****
+Final Word: +
+Licht-Marker Nord, Dunkel-Marker Süd
+
+Fate Calibration α: +
+Aggravated Assault auf rechter Seite von sicherer Zone, Rest auf linker Seite
+
+Fate Calibration β: +
+Licht-Marker NNW, minimal westlich von A, Dunkel-Marker Ost; Dunkler Stack Mitte, heller Stack Nord. Beide Tanks können Gruppen-Mitigation einsetzen sobald der Boss verschwindet.
+****
+
+=== The Final Word
+Alle werden mit Debuffs belegt:
+
+* Licht-Signal, orange, ohne Pfeil
+** 1 Charakter
+** startet im Norden
+* Dunkel-Signal, lila, ohne Pfeil
+** 1 Charakter
+** startet im Süden
+* Kontaktverbot, gelb, mit Pfeil
+* Fluchtverbot, blau, mit Pfeil
+** jeweils 3 Charaktere
+** alle 6 im Stack vor Dunkel-Signal (dichter am Boss)
+
+.Final Word Startposition
+image::TEA-PA-final-word-start.png[final word start]
+
+Die Debuffs mit Pfeil erzwingen im Charakter bei Ablauf eine unkontrollierbare Bewegung.
+
+* gelb
+** wird zum Licht-Signal hinbewegt
+** darf aber nicht mit Licht-Signal in Kontakt kommen
+* blau
+** wird vom Dunkel-Signal wegbewegt
+** darf aber nicht zu weit vom Dunkel-Signal entfernt landen
+
+==== Stillness / Motion
+Kurz vor dem Auslösen des Debuffs wird eine zufällige der beiden Mechaniken ausgelöst. +
+Direkt ach der erzwungenen Bewegung wird die andere Mechanik gespielt.
+
+Stillness::
+Der Charakter darf keinerlei Bewegung oder Aktionen ausführen - das schließt Auto-Angriffe mit ein! +
+Dafür am besten den Boss aus dem Visier nehmen und keine Tasten drücken
+
+Motion::
+Der Charakter muss in Bewegung sein - auf der Stelle springen zählt auch
+
+=== Optical Sight
+Es wird zufällig entweder Stack oder Spread ausgeführt. +
+Danach passiert die andere Mechanik.
+
+Verteilen in Nisi-Spread um den Boss herum (wie in BJ + CC). +
+Zwei zufällige Charaktere erhalten einen Stack-Marker. +
+*Grundregel*: Gruppe 1 West, Gruppe 2 Ost
+
+Es kann aber sein, dass beide Stacks auf Charaktere derselben Gruppe gehen. +
+Deshalb stellen wir uns im Nisi-Spread auf, um sofort zu erkennen, wer die Stacks hat. +
+*Flex-Regel*: Wenn Stack-Marker beide in derselben Gruppe, tauschen M2 oder R1 mit dem Stack-Marker, der die Seite wechselt.
+
+Mit etwas zusätzlicher Mitigation ist allerdings auch eine 5-3 Aufteilung nicht tödlich!
+
+.Optical Sight
+image::TEA-PA-optical-sight.png[optical sight]
+
+=== Fate Projection α
+Durch den Enigma Codex werden Klone von den Charakteren erzeugt. +
+Es erscheinen Pfeile, die in die Richtung des eigenen Klons zeigen - damit lässt sich der eigene Klon besser finden. +
+Die Klone bewegen sich und müssen entsprechend verfolgt werden!
+
+Die Klone erleiden Angriffe mit bestimmten Symbolen und sterben dadurch. Wir erhalten dann in der nächsten Mechanik den Symbolen entsprechende Angriffe, die korrekt aufgelöst werden müssen.
+
+*Auf den Klonen in dieser Reihenfolge ablesen und merken:*
+
+. Stillness / Motion
+. Shared Sentence / Aggravated Assault / Defamation / Nichts
+. Stillness / Motion (kann das gleiche sein wie das erste)
+
+Stillness und Motion werden durch Schwerter auf einigen Klonen angezeigt. Diese gelten für alle, auch wenn nur einige davon getroffen werden! +
+*Dunkles Schwert* = Stillness
+*Helles Schwert* = Motion
+
+Die Debuffs sind etwas schwieriger zu erkennen:
+
+* Großes Zahnrad mit innenliegenden Zahnrädern darin = Shared Sentence
+* Kleines Zahnrad mit nichts darin = Aggravated Assault
+* Riesiger lilaner explosionsartig ausbreitender Ring = Defamation
+* Nichts = Nichts
+
+.Fate Calibration Shared Sentence
+image::TEA-PA-fate-alpha-expl-shared-sentence.png[shared sentence]
+
+.Fate Calibration Aggravated Assault
+image::TEA-PA-fate-alpha-expl-aggravated-assault.png[aggravated assault]
+
+.Fate Calibration Defamation
+image::TEA-PA-fate-alpha-expl-defamation.png[defamation]
+
+=== Fate Calibration α
+Während der Klon-Projektion erscheinen im Norden am Rand vier zusätzliche Alexander-Adds am Rand. +
+Von diesen schießen drei mit Lasern durch die Arena und einer nicht. +
+Die sichere Zone für die Mechanik ist gegenüber von dem Alex, der nicht geschossen hat. Das ist hier immer einer von den mittleren beiden! +
+Der Arena-Boden hat an den mögliche Stellen eine Zelt-förmige Markierung.
+
+* 1 Charakter mit Defamation geht gegenüber vom Zelt zum Alex-Add
+* 3 Charaktere mit Aggravated Assault stellen sich in den rechten Bereich vom Zelt
+* 4 restliche Charaktere stellen sich in den linken Bereich vom Zelt
+
+Sobald der Boss verschwindet, passiert das erste Motion/Stillness. +
+Dann werden die Debuffs und das zweite Motion/Stillness fast gleichzeitig aufgelöst.
+
+Mit dem Rauslaufen warten, bis die Sacrament-Laser alle durch sind!
+
+.Fate Calibration Alpha
+image::TEA-PA-fate-alpha.png[fate calibration alpha]
+
+=== Tankbuster
+==== Ordained Capital Punishment
+Dreifacher Angriff auf Platz 1 in der Aggro-Liste. Schaden kann mit dem anderen Tank geteilt werden.
+
+==== Ordained Punishment
+Einfacher starker Angriff auf Platz 1 in Aggro-Liste. Gibt Verwundbarkeits-Debuff, durch welchen Auto-Angriffe tödlich werden.
+Folgt immer direkt auf den vorigen Angriff.
+
+==== Strategie
+. Beide Tanks ziehen alles an persönlicher Mitigation, stehen zusammen drin und OT voked während Cast von Ordained Punishment
+. OT zieht alles an persönlicher Mitigation, nimmt die Angriffe allein und zieht invuln (MT übernimmt)
+. wie 2 nur andersrum
+
+(Tankbuster 2 & 3 kommen später)
+
+=== Fate Projection β
+Es werden wieder Klone aller Charaktere erschaffen, die beobachtet werden müssen - das funktioniert genauso wie bei Projection α.
+
+Die Klone unterscheiden sich wie folgt:
+
+Dunkler Marker::
+* läuft ganz bis zum Rand: Dunkel-Signal
+* blauer Tether
+* grün-roter Tether
+* nichts weiter
+
+Heller Marker::
+* läuft ganz bis zum Rand: Hell-Signal
+* blauer Tether
+* grün-rother Tether
+* Shared Sentence Zahnräder
+
+==== Startposition
+Licht-Signal:: NNW auf den Punkt im Arena-Boden
+Dunkel-Signal:: östlich im Ost-Kreis des Arena-Bodens (hinter Party)
+Dunkel mit blauem Tether:: so dass erzwungene Bewegung nach Süden führt
+Dunkel mit nichts:: so dass erzwungene Bewegung nach Westen (durch die Mitte) führt
+Rest:: so dass erwzungene Bewegung nach Norden führt
+
+.Fate Projection Beta
+image::TEA-PA-fate-beta-startposition.png[fate projection beta]
+
+=== Fate Calibration β
+Während des Casts springen drei Alex-Adds ungefähr nach West, Süd und Ost. +
+Der nördlich verbleibende Alex zeigt mit grünen Blasen eine spätere Mechanik:
+
+* viele Blasen: Verteilen
+* zwei große Blasen: Stack
+
+Kurz danach nutzt einer von den drei anderen Radiant Sacrament und zeigt eine riesige Donut-Fläche an. +
+Ebenfalls merken für später!
+
+Die Alex-Adds stellen sich wieder im Norden auf und die erzwungenen Bewegungen starten.
+
+Die Charaktere im Westen, Süden und Osten laufen weiter bis ganz an den Rand, um jeweils einen Super Jump zu baiten. Die Charaktere im Norden bleiben gesammelt stehen oder korrigieren kurz so, dass sie tatsächlich gesammelt stehen für den grün-roten Tether und Shared Sentence.
+
+.Fate Calibration Beta
+image::TEA-PA-fate-beta-super-jumps.png[fate calibration beta]
+
+Nach den Sprüngen wird jetzt ausgeführt, was vorher mit den grünen Blasen angezeigt wurde (Optical Sight):
+
+Stack::
+* Helle bleiben im Norden stehen
+* Dunkle laufen in die Arena-Mitte zusammen
+
+Spread::
+* die vier Leute bei den Alex-Adds bleiben ungefähr dort
+* Mitte freilassen für die Heiler
+* Rest irgendwie auseinander laufen
+
+Es bleibt bei der einen Mechanik - die gegenteilige erscheint nicht!
+
+Direkt danach wird Radiant Sacrament von einem der gesprungenen Alex-Adds ausgeführt. +
+Die gesamte Gruppe versammelt sich direkt unter diesem (West, Süd oder Ost). +
+Auch hier müssen wir uns erinnern, was vorher mit den Klonen angezeigt wurde.
+
+=== Tankbuster 2
+xref:Tankbuster[]
+
+=== Almighty Judgement
+Die ganze Arena wird mit kreisförmigen Flächen belegt. Drei Muster davon werden nacheinander angezeigt. +
+Dann gehen die Flächen in der dargestellten Reihenfolge hoch.
+
+Um das Ganze einfacher zu machen, betrachten wir nur eine Box aus vier Flächen: +
+Mitte der Arena + die Flächen östlich und südlich davon sowie die verbleibende um ein Quadrat draus zu machen (südöstlich). +
+Wir merken uns die Position(en) vom ersten Set und stellen uns auf die Fläche vom dritten Set. +
+Dann wird eine 3 => 1 Ausweichbewegung ausgeführt.
+
+Die Flächen sind hier nicht markant am Arena-Boden ausgerichtet. Die Kampfmarkierungen sollten das entsprechende Quadrat markieren. Die Flächen sind größer als erwartet und sie überschneiden sich recht weit. Am besten an den Kampfmarkierungen orientieren und direkt in die Mitte der Flächen stellen!
+
+Es ist wichtig, dass das alle in derselben Box machen, weil direkt nach der dritten Fläche ein voller Gruppenstack einschlägt (Irresistible Grace).
+
+.Almighty Judgement
+image::TEA-PA-almighty-judgement.png[almighty judgement]
+
+=== Tankbuster 3
+xref:Tankbuster[]
+
+=== Almighty Judgement
+xref:Almighty Judgement[]
+
+=== Temporal Prison (Enrage)
+Dies stellt den Enrage des Kampfes dar. Es sind allerdings Besonderheiten zu beachten.
+
+Alexander erschafft nacheinander Gefängnisse, die im Uhrzeigersinn auf den kreisförmigen Markierungen im Arena-Boden.
+
+[IMPORTANT]
+Alle Kreise müssen besetzt werden!
+
+Alexander beginnt mit dem nordöstlichen Kreis und sperrt den Charakter darin in einen Käfig. So wird dann im Uhrzeigersinn weiter verfahren, bis nur noch ein Charakter übrig ist, woraufhin der Enrage am Ende ist und alle sterben.
+
+* Die Heiler sollten die ersten beiden Kreise (Nordosten + Osten) besetzen 
+* Die Tanks folgen in den nächsten beiden (Südosten + Süden) 
+* Die DDs sollten sich am besten nach DPS sortieren, so dass der mit dem meisten Schadenspotential im Norden steht und bis zuletzt übrig bleibt
+
+Im Bild ein Vorschlag, bei dem beide Melees noch Positionals spielen können.
+
+.Temporal Prison - Enrage
+image::TEA-PA-temporal-prison.png[temporal prison]

@@ -1,0 +1,120 @@
+== Temporal Stasis + Inception
+
+=== Toolbox
+https://ff14.toolboxgaming.space/?id=105865886660661&preview=1
+
+=== LPDU Notizen
+****
+Temporal stasis: +
+DPS langer/blauer Tether West, T+H langer/blauer Tether Ost; Kurzer/rot&grüner Tether zu östlichem Roboter; Aggravated Assault (Blitz-Debuff) zu BJ-Seite.
+
+Inception: +
+Box Kristalle, gekreuzte Orbs. OT baitet ersten Flarethrower zum Herzen, MT baitet zweiten Flarethrower zur Mitte, Gruppe baitet verbleibenden Flarethrower zu Alexander. +
+Tanks + Shared Sentence nach rechts mit Blick auf Ziel vom Herzen, Rest der Gruppe nach links. +
+Langer Tether DPS baitet West CC Cleave, Schild Heiler Norden, Regen Heiler Süden. OT baitet Super Jump Osten.
+****
+
+=== Temporal Stasis
+Alexander erscheint im Norden und verteilt Debuffs. +
+Außerdem erscheinen BJ & CC westlich und östlich der Mitte. Es ist zufällig, welcher von beiden wo erscheint!
+
+Langer Tether, blau, Debuff 'Restraining Order'::
+* DPS: West
+* Support: Ost
+* Auf CC-Seite: dichter an CC kommen
+
+Kurzer Tether, rot + grün, "Christmas Tether", Debuff 'House Arrest'::
+* am östlichen Roboter
+* DPS südlich
+* Support nördlich
+
+Blitz-Debuff 'Aggravated Assault'::
+* Auf BJ-Seite stacken mit langem Tether (3er-Stack)
+
+Ohne Debuff::
+* am westlichen Roboter
+* DPS: nördlich
+* Support: südlich
+
+⚠️ Fehler im Bild: DPS mit blauem Tether geht West, Support Ost
+
+.Temporal Stasis
+image::TEA-AP-temp-stasis.png[temporal stasis]
+
+In dieser Formation werden wir mit einem Zeit-Debuff für 8 s festgefroren. +
+BJ und CC führen ihre keilförmigen Attacken aus auf die 2 bzw. 3 dichtesten Charaktere. +
+Während dieser Zeit können wir keinerlei Aktionen ausführen - allerdings sind auch alle Buffs auf uns eingefroren und laufen nicht weiter ab.
+
+Alexander wird daraufhin in der Mitte der Arena erscheinen und ist angreifbar. +
+Erste Aktion ist Tankbuster - dann geht es auch schon mit Inception los.
+
+=== Inception
+BJ erscheint im Westen. +
+Alexander erscheint im Norden oder im Süden. Seine Position wird für die nächsten Schritte als neues relatives Nord übernommen.
+
+Wir sammeln uns lose verteilt in der Mitte, um gleich sofort erkennen zu können, wer einen Tether hat und wer nicht.
+Vier zufällige Charaktere erhalten jeweils einen Tether zu einer von vier grünen Kugeln. +
+Gleichzeitig erscheint im relativen Süden das "wahre Herz" Alexanders und bewegt sich durch die Arena.
+
+Charaktere ohne Tether legen einen Judgement Crystal ab. Die Flächen dürfen sich nicht überschneiden, müssen aber so abgelegt werden, dass das Herz alle vier Kristalle berührt. +
+Die Flächen werden gegenüber von Alexander abgelegt. Die vier Charaktere stehen hierfür in etwa in einem Quadrat ("Box"). Im Süden ist ein großer roter Punkt im Arena-Boden, daneben sind zahnrad-förmige "Taschen". Zielposition für die beiden Charaktere am Rand ist jeweils die zweite Tasche. Die beiden anderen Charaktere stellen sich dann nördlich verschoben davor. +
+Es gibt keine vordefinierten Positionen, da es komplett zufällig ist, wer Kristalle und wer Tether bekommt. Durch die lose Verteilung am Anfang sind beispielsweise meist zwei dichter am Rand - die gehen dann zum Rand usw. Das muss dynamisch justiert werden - es gibt ausreichend Zeit, um das hinzuruckeln!
+
+Wer mit einer grünen Kugel verbunden wird, geht in die nördliche Hälfte der Arena (die bei Alexander). +
+Die Zielpositionen sind die roten Punkte im Arena-Boden W, NW, NO und O. +
+Die Kugeln erscheinen immer paarweise. Entweder NW+SO oder NO+SW. +
+Jetzt werden die Tether nach gegenüber und über Kreuz gezogen. Wer zu einer Kugel im Westen verbunden ist, muss auf die östliche Seite - und andersrum. +
+Wer die südlichere Kugel des Pärchens hat, nimmt die nördlichere Zielposition (NW/NO) und wer die nördlichere hat, nimmt die andere Position (W/O).
+
+Zusammenfassung:
+
+* Kein Tether
+** Nach Süden
+** Flächen in Box ablegen
+** Keine Überlappungen!
+* Tether
+** westliches Paar Kugeln? -> NE; östliches Paar Kugeln? -> NW
+** Tether mit Partner-Kugel überkreuzen
+
+.Inception Start
+image::TEA-AP-Inception-1.png[inception 1]
+
+Alle bei Alexander sammeln. +
+Dann in Richtung von BJ bewegen, er benutzt drei Mal Flarethrower auf den jeweils dichtesten Charakter.
+
+* OT erster Bait in Richtung Herz (relativ Süd)
+* MT zweiter Bait in Richtung Mitte
+* Gruppe dritter Bait in Richtung Alexander
+
+MT sollte warten, bis der erste Angriff losgeht, dann dicht rangehen und nach seinem Bait wieder Abstand gewinnen. +
+Gruppe sollte warten, bis zweiter Angriff losgeht. Es reicht, wenn ein Charakter aus der Gruppe dann dicht ran geht.
+
+.Inception Baits
+image::TEA-AP-Inception-2.png[inception 2]
+
+Das Herz bewegt sich in eine zufällige Richtung. +
+Es werden neue Debuffs verteilt.
+
+Mit Blick dorthin, wo das Herz hinfliegt: Tanks rechts, Rest links +
+Ein DPS erhält Debuff "Shared Sentence" (Icon mit drei Personen) - dieser muss zu den Tanks nach rechts!
+
+.Inception Herz
+image::TEA-AP-Inception-3.png[inception 3]
+
+Danach erscheint CC in der Mitte der Arena und schießt drei fächerförmige Flächen auf die drei dichtesten Charaktere. +
+Direkt im Anschluss springt BJ mit Super Jump auf den am weitesten von ihm entfernten Charakter.
+
+Mit Ausrichtung *TRUE NORTH* (BJ ist immer true West):
+
+DPS mit Tether:: westlicher Cleave
+Heiler (Schild):: nördlicher Cleave
+Heiler (Regen):: südlicher Cleave
+OT:: Bait Super Jump am östlichen Rand
+Rest:: östlich von CC stehen, weiter weg als die drei Cleave-Baiter
+
+.Inception CC Cleaves
+image::TEA-AP-Inception-4.png[inception cc cleaves]
+
+=== Übergang
+Am Ende folgt ein weiterer Tankbuster. +
+Danach geht es direkt weiter mit Wormhole.

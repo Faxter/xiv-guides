@@ -69,3 +69,152 @@ OT:: schnellstmöglich CC nach Süden drehen, um Spin Crusher nach außen zu bai
 .Nisi Pass 1
 image::TEA-BJ-CC-nisi-pass-1.png[nisi pass 1]
 
+=== Wasser + Blitz
+WASSER::
+* zufälliger Heiler
+* muss abgelegt werden auf westlichem Mark (D)
+* Ranges + anderer Heiler stacken (mit genug Nisi-Abstand)
+** wenn ein Ranged Blitz bekommt, kann entweder ein Melee adjusten oder es wird als 3er Stack gespielt (beides ok)
+* Debuff wird an zufälligen Spieler im Stack weitergegeben
+* Sofort aus dem entstandenen Tornado raus!
+
+BLITZ::
+* zufälliger DPS
+* muss abgelegt werden beim BJ-Tank (im Norden)
+* Debuff wird dadurch an den Tank weitergegeben
+* es dürfen nicht mehr als diese beiden Spieler vom Blitz getroffen werden
+
+.Wasser und Blitz
+image::TEA-BJ-CC-water-thunder.png[water and thunder]
+
+=== Missiles + Enum + Nisi Pass 2️⃣
+Prox Missiles:: OT und R1 baiten diese abstandsbasiert von BJ südlich hinter CC
+
+Minefields:: OT und R1 baiten diese abstandbasiert von BJ nördlich am Rand der zuvor abgelegten Missiles
+
+* nachdem diese gespawnet und versteckt sind, muss OT diese auslösen und damit wieder von der Arena entfernen
+
+Ice Missile::
+zufälliger Tank
+
+* so ablegen, dass die abgelegte Eis-Fläche in den Tornado wächst, damit dieser einfriert
+* nicht zu dicht an den Tornado gehen! Die zuerst abgelegte Fläche muss nicht den Tornado berührern - es reicht wenn sie da reinwächst!
+
+Enums::
+2 zufällige DPS (auch R1 möglich)
+* in jedem Enum müssen genau drei Spieler stacken (mit Nisi-Abstand)
+* WEST: H1 + M1 + R1/M2-flex
+* OST: H2 + R2 + M2/R1-flex
+
+[TIP]
+Extra-Erklärung zu Enum Flexes: die 3er-Stacks werden west und ost gebildet. Wenn in einem Stack 2 Enums sind, tauschen R1 und M2.
+Wenn nicht, braucht es kein Flex.
+
+Sobald die Enums aufgelöst sind, Nisi Pass mit gleichem Partner wie bei Pass 1! +
+Beim Pass zum OT aufpassen, dass dieser mit den Minen fertig ist - das überlebt nur ein Tank mit Mitigation.
+
+.Missiles und Enums
+image::TEA-BJ-CC-missiles-enums.png[missiles and enums]
+
+=== Wasser + Blitz II
+Wasser::
+zufälliger Spieler aus dem ersten Wasser-Stack
+
+* Im Nordosten ablegen (kein Marker)
+* Heiler, der am Anfang nicht Wasser hatte + Ranges im Stack
+* Für mehr Sicherheit könnte noch M2 mit rein, falls zu viel Schaden reinkommen sollte
+
+Blitz::
+Heiler, der am Anfang Wasser hatte
+
+* beim BJ-Tank im Norden stehen, um Blitz entgegenzunehmen
+
+.Wasser und Blitz 2
+image::TEA-BJ-CC-water-thunder-2.png[wather and thunder 2]
+
+=== Verdict + Nisi Pass 3️⃣
+BJ wirkt Verdict und verteilt "Soll-Debuffs" an alle (alpha bis delta mit zwei Ausrufungszeichen). +
+Danach Flarethrower (Feuer-Cleave) - muss den Wasser-Tornado zerstören! +
+CC wirkt Limit Cut und wird unverwundbar, indem er ein angreifbares Schild erzeugt, das nur direkt von vorne beschädigt werden kann. +
+Schild muss schnellstmöglich zerstört werden!
+
+Gleichzeitig Vorbereitung für drittes Nisi: +
+Supports in Reihe von Nord nach Süd aufstellen: MT -> H2 -> H1 -> OT
+
+Tank (BJ):: BJ nach Osten drehen, Flarethrower baiten in Wasserhose im NO +
+muss am dichtesten zu BJ sein! Keine anderen Spieler in der Hitbox!
+
+Tank (CC):: CC zu Gruppe hindrehen, sodass das Schild angegriffen werden kann
+
+Melee:: In gerade verschwundene Eis-Fläche bewegen, um den Weg für den Heiler aus dem Norden frei zu machen. +
+außerhalb der Hitbox von BJ bleiben! wer dichter dran ist, als der Tank zieht Flarethrower auf sich! +
+sind für Nisi Pass nun auf der westlichen Seite von Supports
+
+Heiler (mit Blitz):: Durch BJ durch nach Süden in Position laufen
+
+Heiler (aus Wasser-Stack):: In Position laufen
+
+Ranged:: Damage-Burst auf das CC-Schild. +
+Darauf achten, dass vorher das Schild frontal zu euch zeigt, damit der Schaden nicht ins Leere geht. +
+Sind für Nisi Pass nun auf der östlichen Seite von Supports
+
+Nisi Pass 3️⃣ nun nicht mehr mit dem zugewiesenen Partner, sondern anhand der Soll-Debuffs. +
+Supports stehen in der Linie, DDs regeln => Flowchart
+
+.Nisi Pass 3
+image::TEA-BJ-CC-nisi-pass-3.png[nisi pass 3]
+
+.Flowchart für DDs
+image::TEA-BJ-CC-flowchart-Nisi-Pass-3.png[nisi pass 3 flowchart]
+
+=== Wasser + Blitz III
+Wasser:: zufälliger Spieler aus dem zweiten Wasser-Stack
+* Im Nordosten ablegen (kein Marker)
+* Beide Melees mit rein
+* wer zweites Wasser hatte, muss sich raushalten (Wasser-Resistenz-Down Debuff)
+
+Blitz:: Heiler, der erstes Wasser hatte
+* In den Süden zum CC-Tank bringen und an diesen übergeben
+
+.Wasser und Blitz 3
+image::TEA-BJ-CC-water-thunder-3.png[water and thunder 3]
+
+=== BPOG Nisi Pass 4️⃣ + Propeller Wind
+OT stellt CC westlich vom Eisblock
+
+DDs stellen sich eine Reihe von West nach Ost, um sich vor CC zu verstecken. +
+*BPOG* +
+Eisblock > Blau > Lila (Purple) > Orange > Grün +
+Das entspricht den Symbolen: Eisblock > α > γ > β > δ
+
+Diese sind als Fixed-Positions zu sehen:
+
+* wer Blau braucht oder hat, geht neben den Eisblock
+* wer Grün braucht oder hat, geht in Arena-Mitte
+* lila und orange entsprechend dazwischen
+
+Nisis werden durch Gavel aufgelöst. +
+Gleichzeitig kommt von CC Propeller Wind, was durch den Eisblock abgefangen wird.
+
+.Nisi Pass 4 - BPOG
+image::TEA-BJ-CC-BPOG.png[nisi pass 4 bpog]
+
+=== Tankbuster + Super Jump
+
+Beide Tanks werden durch Photon auf 1 HP gesetzt. +
+Dann folgt Double Rocket Punch als Tankbuster auf beide Tanks.
+
+BJ springt direkt danach mit Super Jump auf den am weitesten entfernten Spieler. +
+Während des Heal-Checks läuft R1 nach Osten, um das zu baiten.
+
+BJ dreht sich sofort um und spuckt Apocalyptic Ray in einem riesigen Kegel über die Arena. +
+R1 muss deshalb nach dem Jump sofort einen Schritt zur Seite machen.
+
+.Superjump
+image::TEA-BJ-CC-superjump.png[superjump]
+
+=== Liste Nisi-Passes
+. HP-1 nach Beyblades
+. nach Enums
+. Soll-Debuffs (vertikale Linie)
+. BPOG am Eisblock

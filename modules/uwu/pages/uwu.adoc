@@ -1,11 +1,13 @@
 = Heldenlied von Ultima (fatal)
 
 == Info
-* *Unlock*: Sigmascape V4.0 Savage "Kefka"
-* *Gear Sync*: zu iLvl 370, aktuelles BiS >500 reicht
-** Kleine Optimierungen sind möglich
-* *Enrage*: ca. 15:30 min - Dauer bei sauberem Lauf ca. 13 min
-* *Loot*: 1x Ultima Totem für jeden (Umtausch bei Eschina in Rhalgr)
+****
+*Unlock*: Sigmascape V4.0 Savage "Kefka" +
+*Gear Sync*: zu iLvl 370, aktuelles BiS >500 reicht +
+ Kleine Optimierungen sind möglich über optimierte BiS-Sets +
+*Enrage*: ca. 15:30 min - Dauer bei sauberem Lauf ca. 13 min +
+*Loot*: 1x Ultima Totem für jeden (Umtausch bei Eschina in Rhalgr)
+****
 
 === Quellen und Ressourcen
 * https://www.icy-veins.com/ffxiv/the-weapons-refrain-ultimate-guides-hub[Text auf icy-veins von Clees mit LPDU-Anpassungen]

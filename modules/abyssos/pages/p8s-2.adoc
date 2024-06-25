@@ -1,0 +1,321 @@
+= Abyssos - Der Achte Kreis (Episch): Phase 2 - Hephaistos II
+
+== Quellen und Ressourcen
+* https://docs.google.com/spreadsheets/d/1SZbYOMqI5eN5vi0gonzmcyMX0bwxxpG3TBmaN0r4PJE/edit?gid=2002624049#gid=2002624049[Google Doc Timeline]
+* https://www.youtube.com/watch?v=Pr4AbFgZTA8[Video Hector]
+* https://www.youtube.com/watch?v=k9E44ebqTB8[Video Rinon]
+* https://www.youtube.com/watch?v=NUSmXzCi6SU[Video joonbob]
+* https://www.youtube.com/watch?v=jzTot-FozsA[Video joonbob NA]
+* https://www.youtube.com/watch?v=mqNrJ9CSbRg[Video joonbob HC1]
+* https://www.youtube.com/watch?v=huNoVt88RF0[Video joonbob HC2]
+
+== Chat Makro
+----
+/p ┏ ━ Spread━--┳ ━Natural Alignment━--┓
+/p ┃   ┃                /                ┃
+/p ┃   ┃                              ┃
+/p ┃           ┃              Bait prio:        -    ┃
+/p ┃right: mirror-┃      ┃
+/p ┃Stack goes-┃      ┃
+/p ┃       South        ┃      Adjust :  -     ┃
+/p ┣ ━ ━ High Concept  ━ ━ ┳ ━ Desolation ━ ┓
+/p ┃                      Stacks   -┃                --┃ 
+/p ┃                              CCW         --┃                --┃
+/p ┃                             Stacks    -┃                --┃
+/p ┃                           CW           - ┃                --┃
+/p ┃  Unused goes same spot┃--st explosion  ┃
+/p ┃  Unused/Stack orth   -- ┃-st tower, etc.  ┃
+/p ┃  Long debuffs outh       ┃
+
+
+/p ┣ ━ Natural Alignment  ━-- ┫
+/p ┃                          ┃
+/p ┃                  ┃
+/p ┃ mirror for back row spread -┃
+/p ┣ ━ ━ ━- --┳High Concept  ┻ ━ ━ ━ ━ ━ ┓
+/p ┃        ○┃                    frits pick E/W ┃
+/p ┃            ○┃                                                        ┃
+/p ┃                    ┃                         ets pick N/S--┃
+/p ┃            ┃                 (same as 1st towers)
+/p ┃  ○ = Unmarked                                                    ┃
+/p ┣ ━ ━ ━ ━ Dominion━ ━ ━ ━ ━ ━ ━ ━ ━- ┫
+/p ┃           T&H 2 west towers    --┃
+/p ┃           DD   2 east  towers       ┃
+/p ┃ Same prio as Baits                         -                    ┃
+/p ┗ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ - ┛
+----
+
+.Chat Makro
+image::p8s-2-makro.png[chat makro, link=self]
+
+
+== Tank Autos
+MT wird angegriffen, OT muss stacken!
+
+== Unheiliges Dunkel des Tyrannen (Tyrant's Unholy Darkness)
+_Split Buster_ (die beiden höchsten in der Aggro-Liste werden getroffen) +
+Passiert vier Mal im Kampf:
+
+. MT invuln, solo autos danach
+. normaler Split, persönliche Mitigation
+. OT voke + invuln, solo autos danach
+. MT invuln (nur möglich mit WAR MT) oder wie 2
+
+== Rituelle Anpassung (Natural Alignment) 1️⃣
+_Stack zuerst_ +
+Disco-Spieler (mit lila Disco-Scheibe) immer im Norden. +
+Rest Stack nach Süden. +
+Sichere Hälfte bestimmen => feste Spread-Positionen (2 Positionen bleiben leer wegen der Disco-People)
+
+.NA1 Stack zuerst
+image::p8s-2-na-1-stack-first.png[na 1 stack first, link=self]
+
+_Spread zuerst_
+Feste Spread-Positionen, auf die auch mit Disco-Fläche ausgewichen wird! +
+Sichere Hälfte bestimmen => Stack (Disco-Leute nach Norden) 
+
+.NA1 Spread zuerst
+image::p8s-2-na-1-spread-first.png[na 1 spread first, link=self]
+
+[NOTE]
+====
+*Alternative Strategien* +
+Mittlerweile haben sich hier auch andere Lösungen etabliert. +
+Unbedingt innerhalb der Gruppe klären, was gespielt wird!
+
+* Gruppe 1 / Gruppe 2 Split
+** https://raidplan.io/plan/t11hqEMvtcCbgv2p
+* Support / DD Split
+** https://raidplan.io/plan/Dcdxbzv5vjH_B1NP
+====
+
+=== Feuer & Eis
+In sichere Zeile gehen; das ist immer Zeile 1  (ganz vorne) oder Zeile 2 +
+In dieser Zeile wird das erste Feuer/Eis gespielt. +
+Danach Wechsel in die andere Zeile und dort das andere aus Feuer/Eis auflösen.
+
+Lila-Disco-Leute bleiben für beide Zeilen an der Mittellinie zusammen!
+
+❄️::
+3er Stacks auf die zwei dichtesten (zu lila) Spieler +
+T&H links, DDs rechts +
+MT und M1 flexen ggf. auf die andere Seite
+
+🔥::
+2er Stacks auf die drei weitesten Spieler +
+Tanks oder Melees flexen ggf. in die Mitte
+
+.Feuer und Eis Positionen (aus Guide von Rinon)
+image::p8s-2-na-1-fire-ice.png[na1 fire ice, link=self]
+
+wer baited?::
+Prioritätsliste wie bei den Schlangen aus Phase 1. +
+Dies gilt für die Baits innerhalb der 3er-Gruppen (Eis; wer geht nach innen?) und innerhalb der Partner-Stacks (Feuer; wer geht nach außen?)
++
+MT => OT => H1 => H2 +
+M1 => M2 => R1 => R2
+
+wer flext?::
+MT  & M1
+(wer flext, muss auch baiten)
+
+wo baiten?::
+❄️ innen
+🔥 außen
+
+.NA1 Bait Positionen (aus Guide von joonbob)
+image::p8s-2-na-1-bait-positions.png[na1 bait positions, link=self]
+
+Einige Beispiele. +
+Gute Trockenübung, alle mal durchzugehen und zu verstehen, wer hier warum wo steht!
+
+[CAUTION]
+Abweichung unten links: MT sollte flexen und im rechten 3er-Stack baiten. Demnach sind hier blaue 1 und 2 vertauscht.
+
+.NA1 Beispiele
+image::p8s-2-na-1-examples.png[na1 examples, link=self]
+
+
+== Konzeptkontrolle (High Concept) 1️⃣
+Start mit harter Raidwide
+
+kurz = 8s +
+lang = 26s
+
+Alpha (α):: kurz in Ecke A, lang Stack auf 3
+Beta (β):: kurz in Ecke B, lang Stack auf 2 (gelb zu gelb)
+Gamma (γ):: kurz in Ecke C, lang Stack auf 3
+2-Stack:: auf 2
+3-Stack:: auf 3
+
+.HC1 Startposition
+image::p8s-2-hc-1-start.png[hc1 start, link=self]
+
+* Stack Mitte für Heals (Elemente weit genug voneinander weg bleiben)
+* Halb-Arena-Angriff ausweichen
+* Elemente kombinieren
+* Tower besetzen (Alpha immer Nord, Gamma immer Süd, Beta adjust)
+
+.HC1 erste Kombination (Marker anders)
+image::p8s-2-hc-1-1.png[hc1 first combination, link=self]
+
+Alpha, Beta, Gamma (kurz):: verbrauchte zu 2/3 (nicht stacken), unverbrauchtes in ursprüngliche Ecke
+Alpha, Beta, Gamme (lang):: in Ecken wie die kurzen vorher (ABC)
+2-Stack:: CCW von West in nächste Ecke ohne unverbrauchtes Element (zu Gamma, außer Gamma wurde nicht verbraucht - dann Beta)
+3-Stack:: CW von Nord in nächste Ecke ohne unverbrauchtes Element (zu Alpha, außer Alpha wurde nicht verbraucht - dann Beta)
+
+.HC1 zweiten Satz Elemente erstellen
+image::p8s-2-hc-1-2.png[hc1 2nd set, link=self]
+
+4 Tower nehmen: +
+unverbrauchtes Element, 2-Stack, 3-Stack nach Norden +
+lange Alpha, Beta, Gamma, nach Süden
+
+Es stacken nur die zwei Spieler mit dem entsprechenden Element. 
+
+[IMPORTANT]
+Ein Element bleibt übrig und darf nicht stacken!
+
+.HC1 4 Tower auflösen
+image::p8s-2-hc-1-3.png[hc1 4 towers, link=self]
+
+
+== Kosmische Verkohlung (Limitless Desolation)
+T&H *WEST*, DD *OST*
+
+Es reicht, die zugewiesene Hälfte zu betrachten, weil immer ein Tower links, einer rechts erscheint und AoEs immer auf einen Support und einen DD fallen.
+
+*Mitzählen!*::
+Wer von AoE-1 getroffen wird, geht in Tower-1.
+AoE-2 in Tower-2 usw.
+
+Für jeden gilt der Ablauf::
+Getroffen werden von AoE-x -> Fläche ablegen -> Tower besetzen
++
+Dafür Positionierung auf Ecken des Gitters im Arena-Boden, damit abgelegte Flächen immer Platz im Tower lassen.
+
+Sobald die AoE gezählt ist, sollte man sich aber direkt zu seinem Tower bewegen, aber die Fläche entsprechend auf einer Ecke ablegen. +
+AoE-4 kann sich da auch deutlich mehr Spielraum lassen, da ja sonst nichts mehr hochgeht.
+
+Verfahren zum Ablegen der Flächen::
+Alle Flächen werden auf die Mittel-Linie der entsprechenden Hälfte gelegt (Nord-Süd-Achse) +
+1 und 3 vorne (Arenaboden-Kreuz auf Höhe OT/M2) +
+2 und 4 hinten (Arenaboden-Kreuz auf Höhe H2/R2)
++
+Grundsätzlich ist man mit dieser Positionierung IMMER neben dem Ziel-Tower.
+
+Dedizierte Laufwege in magenta.
+
+Es ist natürlich möglich, die Flächen etwas zu verschieben, insbesondere falls ein Melee den Tower hinten außen bekommt.
+Weiterhin ist es auch möglich, woanders langzulaufen und trotzdem niemandem im Weg zu sein.
+
+Es soll hier nur die Basis-Idee veranschaulicht werden.
+
+.Verkohlung Positionen der Flächen
+image::p8s-2-desolation-positions.png[desolation positions, link=self]
+
+.Verkohlung Laufwege
+image::p8s-2-desolation-paths.png[desolation paths, link=self]
+
+
+== Rituelle Anpassung (Natural Alignment) 2️⃣
+Genau wie bei NA-1 kommt hier ein Stack/Verteilen und dann ein Feuer/Eis.
+
+Für Stack/Verteilen wird keine Fläche abgelegt, dafür muss hier die Zeile-1/Zeile-2 ausgespielt werden. +
+Die Feuer/Eis-Hälfte der Mechanik ist damit genau gleich wie bei NA-1.
+
+Zusätzlich werden 1 oder 2 von den lila-Spielern mit dem gezeigten Debuff versehen, der bedeutet, dass die Reihenfolge umgekehrt zur gezeigten passiert.
+
+.NA2 Debuff
+image::p8s-2-na-2-debuff.png[na2 debuff, link=self]
+
+Bei dieser Version der Mechanik muss der Spread in die eine sichere Zeile gepackt werden.
+
+Wir stellen die lila-Spieler genau wie bei Feuer/Eis. +
+Alle haben eine feste Position (wie im Bild). Die zwei Positionen der NA-Spieler bleiben dann leer (ähnlich wie beim NA-1-Spread).
+ 
+Die Positionen sind so gewählt, dass die Heiler alle anderen gut erreichen und die Ranged kurze Laufwege haben (Caster).
+
+STACK: gleiche lila-Position, Stack in der Mitte dahinter (gleiche Position wie mittlere Feuer-Partner)
+
+.NA2 Stack in einer Zeile
+image::p8s-2-na-2-stack.png[na2 stack, link=self]
+
+.NA2 Spread in einer Zeile
+image::p8s-2-na-2-spread.png[na2 spread, link=self]
+
+[NOTE]
+====
+*Alternative Strategien* +
+Auch hier haben mittlerweile andere Lösungsansätze Verbreitung gefunden.
+
+Im Grunde genommen machen alle das Gleiche - stellt nur sicher, dass alle in der Gruppe das gleiche Verständnis haben.
+Insbesondere müssen diese Punkte klar sein:
+
+* Individuelle Positionen für jeden im Zeilen-Spread
+* Verschoben oder gespiegelt zwischen Zeile 1 und 2
+** anders ausgedrückt: Lila-Scheiben immer in der Nähe desselben Gitterkreuzes oder immer vorne innerhalb der Zeile
+====
+
+
+== Konzeptkontrolle (High Concept) 2️⃣
+* *kurze Buchstaben* (alpha, beta, gamma) in Ecken A B C (genau wie HC1)
+* *lange Buchstaben* verteilen sich auf 1 und 2 (Solo-Debuff auf 1, Duo-Debuff auf 2, ohne zstl. Debuff auch auf 2)
+* *ohne Debuff* gehen zu A
+
+.HC2 Start
+image::p8s-2-hc-2-start.png[hc2 start, link=self]
+
+* *ohne Debuff* mischen sich direkt zusammen für Ifrit
+* *kurze Buchstaben* mischen sich entsprechend der Tower-Farbe & merken sich ob sie Nord oder Süd genommen haben
+
+(lange Buchstaben und verbleibendes Element haben hier nix zu tun)
+
+.HC2 erstes Mischen
+image::p8s-2-hc-2-1.png[hc2 1st mix, link=self]
+
+Kreaturen & unverbrauchtes Element::
+gehen NW ohne sich zu mischen +
+Ifrits stehen orientiert nach West und Ost +
+Tiere stehen Nord und Süd (so wie sie ihre Tower gespielt hatten)
+
+Lange Buchstaben::
+auf A B C (wie bekannt)
+
+.HC2 Elemente verteilen
+image::p8s-2-hc-2-2.png[hc2 new elements, link=self]
+
+Tiere:: nehmen Adds Nord & Süd
+Ifrits:: nehmen Adds West & Ost
+Alpha:: mischt mit Beta im Osten
+Gamma:: mischt mit unverbraucht im Westen
+
+.HC2 zweites Mischen
+image::p8s-2-hc-2-3.png[hc2 2nd mix, link=self]
+
+Die neu gemischten Tiere stellen sich in die Türme. +
+Die Adds werden CW zum Rand gezogen + ein Feld weiterlaufen, damit man nicht in zwei Add-Strahlen steht.
+
+.HC2 Adds verschieben
+image::p8s-2-hc-2-4.png[hc2 pull adds, link=self]
+
+Zum Schluss mischen grüne Vögel mit Ifrits, um 4 Federn zu bauen. +
+Federn explodieren und machen jedem max-HP - 1 Schaden. Deshalb muss jeder auf 100% geheilt sein, sobald das passiert!
+
+== Schlag des Herrschers (Dominion)
+* verteilen in Ausgangsposition
+* 4 Spieler*innen werden von Flächen getroffen - diese WARTEN
+* die 4 Verschonten lösen die ersten Tower
+* danach die wartenden die zweiten 4 Tower.
+
+T&H immer die westlichen beiden +
+DD immer die östlichen beiden
+
+MT => OT => H1 => H2 +
+M1 => M2 => R1 => R2 
+
+.Startposition
+image::p8s-2-dominion-start.png[dominion start, link=self]
+
+.Einige Beispiele
+image::p8s-2-dominion-examples.png[dominion examples, link=self]

@@ -1,0 +1,274 @@
+= Abyssos - Der Achte Kreis (Episch): Phase 1 - Hephaistos
+
+== Quellen und Ressourcen
+* https://www.youtube.com/watch?v=3uVG6KOqDX4[Video Hector]
+* https://www.youtube.com/watch?v=S9W1THeJrpU[Video Hector Fourfold Uptime]
+* https://docs.google.com/spreadsheets/d/1SZbYOMqI5eN5vi0gonzmcyMX0bwxxpG3TBmaN0r4PJE/edit?gid=1562924942#gid=1562924942[Google Doc Timeline]
+
+== Chat Makro
+----
+/p ┏ ━   Pairs   ━ ━ ┳ ━ ━ ━ Gorgon 1 ━ ━ ━ ┓
+/p ┃               ┃           Starting  CW           ┃
+/p ┃               ┃       ┃
+/p ┃                           ┃       ┃
+/p ┃               ┣ ━ ━ ━ Gorgon 2 ━ ━ ━ ┫
+/p ┃               ┃ Color pairs                        ┃
+/p ┃                               ┃ Color from Spread       -┃
+/p ┣ ━ -Spreads- ━ ┫ Same priorities            --┃
+/p ┃       ┣ ━ ━ Quad Crush ━ ━ ━-┫
+/p ┃ 　　　  ┃        Tetraflare                   ┃ 
+/p ┃       ┃                   ┃ 
+/p ┃                               ┃                   ┃ 
+/p ┃ Set  to  ┃　    Diflare                      --┃ 
+/p ┃ Set  Mid  -┃       ※   >                --┃
+/p ┗ ━ ━ ━ ━ ━ ━ ┻ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ┛
+----
+
+.Chat Makro
+image::p8s-1-makro.png[chat makro]
+
+
+== Vulkanfackel (Volcanic Torches)
+Eigenen Quadranten betrachten: Ecke immer unsafe. +
+Grün markierte Linie leuchtet => Feld unsafe +
+Grüne Linie bleibt unberührt => dort ist safe +
+Beide grünen leuchten => mittleres Feld safe
+
+Danach sofort Spread (*Octa*) oder Partner-Stacks (*Tetra*) im sicheren Bereich der Sonnenschmiede (Schlange/Vogel)
+
+.Vulkanfackel Linien
+image::p8s-1-volcanic.png[volcanic torches 1]
+
+== Flammenviper (Flameviper) Tankbuster
+OT Provoke, um zweiten Hit zu nehmen. +
+MT Provoke zurück.
+
+== Mutierte Schöpfung (Verwandlung)
+Schlange => max-melee +
+Zentaur => interkardinal rein oder Anti-Rückstoß
+
+Mit der Verwandlung geht es die erste Mini-Phase. Entweder Zentaur oder Schlange - das ist zufällig!
+
+== Mini-Phase Zentaur I
+=== Gleißender Amok (Rearing Rampage)
+Spread-Positionen: mitzählen von welcher AoE man getroffen wird (1..4)
+
+.Zentaur Amok Spread
+image::p8s-1-rampage.png[centaur rampage]
+
+=== Stampfer (Stomp Dead)
+* 1er auf 1 & 2er Mitte
+* 3er und 4er warten auf B
+* Nach den Sprüngen wechseln: 3er auf 1, 4er in Mitte
+
+.Zentaur Sprung
+image::p8s-1-stomp.png[centaur stomp]
+
+== Mini-Phase Schlange I
+=== Gorgons Fluch (Gorgomanteia)
+_Stack Mitte, Adds mit Debuffs töten_
+
+Erster Debuff gibt Reihenfolge an:
+
+* TH => DD oder
+* DD => TH
+
+Gruppe I ist verantwortlich für die ersten beiden Adds. Gruppe II für die nächsten beiden.
+
+Orangener Kegel:: Versteinern in Blickrichtung, muss auf Add gerichtet werden
+Grüne Schlange:: Gift-Puddle, muss auf versteinertes Add gelegt werden
+
+Prioritätssystem im Makro "Gorgon 1".
+
+*MT*: nimm Add 1 +
+*M1*: nimm Add 1
+
+*OT*: nimm Add 1, außer MT hat gleichen Debuff +
+*M2*: nimm Add 1, außer M1 hat gleichen Debuff
+
+*H1*: nimm Add 2, außer H2 hat gleichen Debuff +
+*R1*: nimm Add 2, außer R2 hat gleichen Debuff
+
+*H2*: nimm Add 2 +
+*R2*: nimm Add 2
+
+=== In die Schatten (Into the Shadows)
+Spawnt die Adds aus herumwirbelnden Augen
+
+CW => Adds werden auf allen Kardinals landen +
+CCW => Adds werden auf allen Interkardinal landen
+
+Bei Spawn: WEGSCHAUEN - Versteinerungsblick der Adds geht mit kurzer Verzögerung nach deren Erscheinen los! +
+Beachten, dass man also ZWEI Mal wegschauen muss - jeweils beim Erscheinen der Add-Pärchen.
+
+.Schlange Versteinerungsblick
+image::p8s-1-shadows.png[snake 1]
+
+== Illusionsschatten (Illusory Creation)
+_4 Klone am Rand_
+
+Vorpositionierung im mittleren schwarzen Quadrat in zugewiesener Ecke.
+
+== Schöpfungsauftrag (Creation on Command)
+_2 Klone machen Schlange und Vogel_
+
+Safe-Spots immer in einer Linie mit Vogel, raus aus mittlerem Quadrat +
+Im Safe-Quadrat Verteilen in die Ecken +
+
+[TIP]
+es ergibt sich immer ein H-Muster mit den Safe-Spots W&E oder N&S
+
+== Mannigfaltige Flammen (Manifold Flames)
+_TH oder DD bekommen AoE ab_
+
+Getroffene auf kardinal max-melee +
+Verschonte in Hitbox, interkardinal zugewiesene Ecke (⚠️ abstandsbasiertes Zuweisen für die Linien-AoEs) +
+(im Bild wurden T&H getroffen und DDs verschont)
+
+im Bild: Vorpositionierung -> Ausweichen in safe-spots -> Ködern der Linien durch dichteste
+
+.Mannigfaltige Flammen
+image::p8s-1-manifold.png[manifold flames]
+
+== Sonnenschmiede (Sunforge)
+_2 Klone machen beide Schlange oder beide Vogel_
+
+Vögel:: Mitte sicher
+Schlangen:: Ecken sicher
+
+Ausbreitende Viper (*Verteilen*) oder Tetraflare (*Partner*)
+
+im Bild die Beispiele: +
+Schlangen + Viper +
+Vögel + Tetraflare
+
+.Sonnenschmiede
+image::p8s-1-sunforge.png[sunforge]
+
+== Illusionsschatten/Mannigfaltig (Illusory/Manifold)
+_Vogel Nord/Süd_
+
+Oben mit T&H getroffen. Unten sind DDs getroffen. +
+Rechts die vier Möglichkeiten für Vogel/Schlange + Viper/Tetra
+
+Man bleibt also in der Nähe von der Verteilen/Partner Position.
+
+.Illusionsschatten + Mannigfaltige Flammen
+image::p8s-1-manifold-north-south.png[illusory manifold]
+
+== Vulkanfackel (Volcanic Torches) 2
+_Blaue Linien lassen nur ein Feld sicher - immer eine Ecke_
+
+Auf Eck-Feld SW (Marker 3) schauen:
+
+* CCW => 4
+* CW => 2
+* Weg von 3 => 3
+* In die 3 => 1
+
+im Bild: beide Linien CCW bzw. bewegen sich weg von der 4 => 4 sicher
+
+.Vulkanfackel 2
+image::p8s-1-volcanic-2.png[volcanic 2]
+
+== Mutierte Schöpfung (Verwandlung)
+An dieser Stelle passiert die andere Mini-Phase (xref:Mini-Phase Schlange I[] oder xref:Mini-Phase Zentaur I[])
+
+== Vierfacher Feuersturm (Fourfold Fires)
+_drei Explosionen von Schlangendrachen in den Lava-Pfützen_
+
+G1 nach Norden schauen, G2 nach Süden => anhand pulsierender Pfützen Safe-Spot finden
+
+.Feuersturm Ausrichtung
+image::p8s-1-fourfold.png[fourfold]
+
+=== Feuersturm Uptime
+Erste Explosion::
+irgendwo ausweichen
+
+Zweite Explosion::
+geht einher mit einem Cast Tetraflare oder Octaflare (s. Bild).
++
+Gruppe 1: Nord (+ West) +
+Gruppe 2: Süd (+ Ost) +
+Melees: Ecke am Boss, Heiler gegenüber. +
+Ranged mit Blick auf Boss nach rechts. +
+Tanks mit Blick auf Boss nach links.
++
+Wenn Hälfte frei => gleiche Positionen, nur Tanks passen an.
++
+Oben im Bild: Octa +
+Unten im Bild: Tetra (DDs gleiche Positionen, nur TH passen an)
+
+Dritte Explosion::
+wird direkt gefolgt von Sunforge (Vogel/Schlange) + Conceptual Tetra-/Octaflare (Partner/Verteilen). +
+Also zuerst den Feuerdrachenexplosionen ausweichen, dann direkt nach Makro "Spread/Pairs" ausweichen. +
+Das sieht dann genauso aus wie ganz am Anfang beim Ende der ersten Mech!
+
+.Feuersturm Patterns
+image::p8s-1-fourfold-patterns.png[fourfold patterns]
+
+== Mutierte Schöpfung (Verwandlung)
+Nun folgt wieder eine Tier-Mini-Phase. +
+Immer das andere im Vergleich zu ersten:
+
+|===
+|Ablauf 1|Ablauf 2
+
+|Zentaur I|Schlange I
+|Schlange I|Zentaur I
+|Zentaur II|Schlange II
+|Schlange II|Zentaur II
+|===
+
+== Mini-Phase: Zentaur II
+Boss dreht sich zu einer Kardinalen und springt mit einem dieser Casts zum Rand:
+
+Fußstampfer (Quadrupedal Impact):: Rückstoß von Landeposition
+Fußmalmer (Quadrupedal Crush):: AoE auf Landeposition
+Landeposition als zwischenzeitliches 'relatives Nord' nehmen
+
+Boss zeigt Ablauf seiner nächsten Attacken-Kette:
+
+. Cast von Tetraflare (Partner) oder Diflare (Gruppen)
+. Charge durch Mitte mit Rückstoß
+. Auflösen von Tetraflare/Diflare
+. Stampfer oder Malmer
+. Charge durch Mitte mit Rückstoß (90° versetzt zu 2)
+. Stampfer oder Malmer (Gegenteil von 4)
+. Fackeln (ein Rand ist sicher)
+
+Bild zeigt Tetraflare beim Übergang von 2. -> 3. nach dem Rückstoß +
+Bei Diflare würden OT&M2 sowie H2&R2 nach Norden verschieben, damit zwei Vierer-Stacks entstehen. +
+Ob das West oder Ost passiert, hängt davon ab, was für 4. angezeigt wurde!
+
+.Zentaur II
+image::p8s-1-centaur-2.png[centaur 2]
+
+== Mini-Phase: Schlange II
+_Vier Wirbel-Augen erzeugen vier Schlagen._
+
+Zu seinem Farb-Marker rauslaufen und nach außen drehen, um den Steinblicken der Schlangen auszuweichen:
+
+CW:: Schlangen auf Kardinalen (Spieler auf Inter)
+CCW:: Schlangen auf Interkardinalen (Spieler auf Kardinal)
+
+=== Farben Pärchen
+Auf die beiden Debuffs Steinblick und Grünschlange schauen (die Debuffs aus Gorgon-1):
+
+* Blick geht zuerst hoch?
+** Vor die Schlange auf zugeordneter Farbe stellen und Schlange angucken! Dann mit Farb-Partner wechseln und grüne Fläche so ablegen, dass nichts getroffen wird.
+* Grün geht zuerst hoch?
+** Weg von der Schlange, dann tauschen und vor die Schlage und Schlange angucken!
+
+Klon erscheint am Rand und zerstört mit seinem Charge zwei Schlangen. +
+Zu den verbleibenden zwei Schlangen bewegen.
+
+*Zuordnung* wie in Gorgon-1, dabei 'ohne Debuff' als eigenen Zustand berücksichtigen.
+
+Lila Stack in Richtung zur anderen Schlange. +
+Orangener Kreis gegenüber von der anderen Schlange. +
+Am besten alle dicht bei der Schlange stehen, damit Kreis-Debuff auch noch im Lila Stack mit drin steht.
+
+.Schlange II
+image::p8s-1-snake-2.png[snake 2]

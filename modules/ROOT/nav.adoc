@@ -7,5 +7,7 @@ include::uwu:partial$navlist.adoc[]
 include::tea:partial$navlist.adoc[]
 
 .Endwalker
+* Abyssos
+include::abyssos:partial$navlist.adoc[]
 * Anabaseios
 include::anabaseios:partial$navlist.adoc[]

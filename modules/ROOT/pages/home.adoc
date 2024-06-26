@@ -1,5 +1,8 @@
 = XIV Guides
 
+== Allgemein
+include::general:partial$navlist.adoc[]
+
 == Stormblood
 include::uwu:partial$navlist.adoc[]
 

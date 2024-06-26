@@ -1,0 +1,78 @@
+= Bildschirm-Layout Guide
+
+Das Bildschirm-Layout (Head-up Display, HUD) ist eine Schicht zwischen Mensch und Spiel.
+Es zeigt eine Vielzahl an verschiedenen Aspekten des Spiels und erlaubt Interaktionen durch den Menschen.
+Das voreingestellte Layout informiert vollständig ausreichend darüber, was gerade im Spiel passiert.
+Das Layout Menü erlaubt aber individuelle Justierungen mit vielen Freiheiten.
+
+Dieser Guide erforscht einige grundsätzliche Ideen dazu und enthält Vorschläge dafür, welche Facetten möglicherweise beim Einrichten von einigen der Elemente in einem persönlichen HUD beachtenswert sein können.
+
+== Das Menü
+Square Enix stellt einen eigenen Guide zur Verfügung, in welchem die grundlegende Bedienung des Layout-Menüs erklärt wird.
+
+https://de.finalfantasyxiv.com/uiguide/know/know-hud/hud-layout.html
+
+== Allgemeine Hinweise
+Bevor wir zu konkreten HUD-Elementen kommen, gibt es hier ein paar allgemeine Tipps, die den metaphorischen Stein mit diesem Werkzeug ins Rollen bringen sollen. Es geht darum, Ideen zu finden, wie das Layout dabei helfen kann das Spiel zu spielen. +
+Dieser Guide wird sich im Weiteren hauptsächlich in Richtung der Bewältigung von schwierigen PvE- Inhalten vertiefen. Die Ideen sind aber sicherlich auch für PvP oder Anderes anwendbar.
+
+=== Form folgt Funktion
+Die wichtigste Regel bei der ganzen Sache ist folgende: Wenn es für Dich funktioniert, behalt es! +
+Dein HUD mag vielleicht dem von anderen sehr ähnlich sehen, aber möglicherweise ist es auch sehr anders. Ein gut funktionierendes Layout ist besser als ein hübsches - aber womöglich ist der Zweck Deines HUD, schön auszusehen!
+
+=== Augenbewegung
+Denke beim Zusammenstellen des Layouts darüber nach, welche Elemente Du am häufigsten ansiehst. +
+Versuch Dir vorzustellen, welchen Weg der Fokuspunkt Deines Sichtfeldes im Durchschnitt über den Bildschirm zurücklegt. +
+Die Distanz dieses Weges zu minimieren, hilft dabei Augenbewegung während der Konzentrationsphase zu reduzieren. +
+Das kann dabei helfen eine bessere Wahrnehmung zu erlangen davon, was gerade passiert. Ziel ist bessere Reaktionszeit und langsamere Ermüdung der Augen.
+
+Versuche also Elemente, die Du häufig anschaust, dichter zusammenzubringen.
+* Beispiele
+** Klassen-Leiste neben Kommandoleisten legen
+** Gruppenliste dichter an Bildschirmmitte legen
+
+=== Größe und Form von Elementen
+Beachte, dass sich Größe und Form von Elementen oftmals anpassen lassen. +
+Größere Elemente sind einfacher zu erkennen und/oder wiederzufinden.
+
+* Beispiele
+** Charakter-Debuffs größer machen
+** Kommandoleistenformat von 12x1 zu 4x3 stellen für kompaktere Platzierung
+
+Erforsche die Einstellungen der einzelnen Elemente. Viele haben besondere Häkchen o.Ä.!
+
+* Beispiele
+** Trennen der Buffleiste in Buffs, Debuffs und Andere
+** Vereinfachte Darstellung der Klassenleiste
+
+=== Interaktionen durch Gewohnheiten
+Beachte Deine eigenen Gewohnheiten und passe die Layout-Elemente darauf an.
+
+* Beispiele
+** Buff-Liste auf die linke Bildschirmhälfte legen, weil ich den Cursor oft in der rechten Hälfte habe und dort häufig Rechtsklick nutze (und dann vielleicht mal einen Buff weg-klicke)
+
+=== Sichtbar machen, was gesehen werden muss
+Welche Aspekte vom Kampf müssen ins Auge springen? +
+Unterschiedliche Rollen finden womöglich verschiedene Aspekte interessant.
+
+* Beispiele
+** Der Fortschrittsbalken (Cast-Bar) des Gegners mittig in maximaler Größe
+** Als Tank eine prominente Platzierung der Gegner-Liste
+** Als Heiler eine bessere Sichtbarkeit von Fokus-Ziel oder Gruppen-Liste
+
+=== Unsichtbar machen, was nicht gebraucht wird
+Nicht gebrauchte Elemente lassen sich ausblenden. Das lässt mehr Platz im Layout, in dem das Spiel selbst wieder sichtbar werden kann.
+
+
+== Mein Layout
+Als Veranschaulichung hier ein Bild von meinem Layout und darunter mit Kommentaren. +
+Hier fehlt z.B. die Gruppenliste, da ich für das Beispiel gerade solo in einen Inhalt gesprungen bin.
+
+In diesem Beispiel habe ich das Prinzip verfolgt: je häufiger ich drauf schaue, umso mittiger ist es platziert. +
+In den Ecken und am Rand finden sich nur Dinge, die ich im Raid nicht brauche.
+
+.Screenshot meines Layouts
+image::ui-guide-layout.png[layout screenshot, link=self]
+
+.Kommentierte Elemente
+image::ui-guide-comments.png[layout comments, link=self]

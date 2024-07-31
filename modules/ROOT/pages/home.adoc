@@ -12,3 +12,6 @@ include::tea:partial$navlist.adoc[]
 == Endwalker
 include::abyssos:partial$navlist.adoc[]
 include::anabaseios:partial$navlist.adoc[]
+
+== Dawntrail
+include::light-heavyweight:partial$navlist.adoc[]

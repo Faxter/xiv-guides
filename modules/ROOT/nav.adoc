@@ -14,3 +14,7 @@ include::tea:partial$navlist.adoc[]
 include::abyssos:partial$navlist.adoc[]
 * Anabaseios
 include::anabaseios:partial$navlist.adoc[]
+
+.Dawntrail
+* Halbschwergewicht
+include::light-heavyweight:partial$navlist.adoc[]

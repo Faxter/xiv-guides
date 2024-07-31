@@ -1,0 +1,49 @@
+= Arkadion - Halbschwergewicht R1 (episch)
+
+WARNING: Noch in Arbeit!
+
+== Quellen und Ressourcen
+
+== Chat-Makros
+
+== Marks
+
+== Vierfachklaue
+Role-Proteans
+
+== Milchtritt
+Tankbuster
+
+//Sieben Leben (Äther freisetzen für Klone)
+
+== Doppelklaue
+Half-Rooms
+
+== Seelenschatten
+Klone aus freigesetztem Äther erschaffen
+
+//Sieben Leben
+
+== Vierfache/Doppelte Kralle
+vierfach -> Pairs
+doppelt -> Stacks
+
+// Seelenschatten
+
+== Vierfachklauensprung
+Vierfachklaue mit Verschieben
+
+== Blutiger Rundumkratzer
+Raidwide
+
+== Mäusejagd
+Plattform wird zerstört
+
+== Felines Nachahmung
+Add schlägt mit Präziser Höhenschlag
+2 direkter Hit, 2 mit Hochwerfen
+
+//Milchtritt
+
+== Schockwelle
+Knockback zu neu generierten Plattformen

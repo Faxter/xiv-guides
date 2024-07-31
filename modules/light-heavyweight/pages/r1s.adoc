@@ -3,47 +3,84 @@
 WARNING: Noch in Arbeit!
 
 == Quellen und Ressourcen
+* https://www.youtube.com/watch?v=9UB5x8JzAiQ&ab_channel=HectorHectorson-HectorLectures[Video Hector]
 
 == Chat-Makros
 
 == Marks
 
-== Vierfachklaue
-Role-Proteans
+== Vierfachklaue (Quadruple Crossing)
+Rollen-Proteans
 
-== Milchtritt
+== Milchtritt (Biscuit Maker)
 Tankbuster
 
-//Sieben Leben (Äther freisetzen für Klone)
+== Sieben Leben (Nine Lives)
+Äther freisetzen für Klone
 
-== Doppelklaue
-Half-Rooms
+== Doppelklaue (One-Two Paw)
+Halb-Raum
 
-== Seelenschatten
+== Seelenschatten (Soulshade)
 Klone aus freigesetztem Äther erschaffen
 
 //Sieben Leben
 
-== Vierfache/Doppelte Kralle
-vierfach -> Pairs
+== Vierfache/Doppelte Kralle (Double/Quadruple Swipe)
+vierfach -> Pairs +
 doppelt -> Stacks
 
 // Seelenschatten
 
-== Vierfachklauensprung
+== Vierfachklauensprung (Leaping Quadruple Crossing)
 Vierfachklaue mit Verschieben
 
-== Blutiger Rundumkratzer
+== Blutiger Rundumkratzer (Bloody Scratch)
 Raidwide
 
-== Mäusejagd
-Plattform wird zerstört
+== Mäusejagd (Mouser)
+Plattform wird zerstört +
+hinten links am Boss anfangen +
+hinten rechts am Boss betrachten +
+einmal oder zweimal ausweichen
 
-== Felines Nachahmung
-Add schlägt mit Präziser Höhenschlag
-2 direkter Hit, 2 mit Hochwerfen
+== Feline Nachahmung (Copycat)
+Add schlägt mit Präziser Höhenschlag +
+2 Mal direkter Hit, 2 Mal mit Hochwerfen +
+Boss gebückt -> Hochwerfen
 
 //Milchtritt
 
-== Schockwelle
+== Schockwelle (Shockwave)
 Knockback zu neu generierten Plattformen
+
+== Zwei Klone
+Nine Lives + Leaping One-Two Paw + Soulshade +
+Nine Lives + Leaping Quadruple Crossing + Soulshade +
+Tempestuous Tear (Line-Stacks) +
+Nailchipper (Spread-Marks müssen bei Rollen-Proteans die zweiten Baits übernehmen) +
+Nailchipper-Marks am Ende voneinander weg, können nicht-markierte ruhig treffen
+
+// Raidwide
+
+== Mäusejagd (Mouser) 2
+Ausweichen genau wie beim ersten Mal
+
+=== (Overshadow)
+Line-Stack
+
+=== (Splintering Nails)
+Rollen-Stacks + 
+Tanks -> Heiler -> DDs
+
+// tb
+// shockwave
+
+== (Raining Cats)
+Tethers
+
+== (Copycat)
+Devour mit Halb-Raum
+
+== Mäusejagd (Mouser) Enrage
+alle Plattformen werden zerstört

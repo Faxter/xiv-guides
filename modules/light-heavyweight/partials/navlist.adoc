@@ -1,1 +1,1 @@
-** xref:light-heavyweight:r1s.adoc[R1S]
+** xref:light-heavyweight:r1s.adoc[R1S (M1S)]

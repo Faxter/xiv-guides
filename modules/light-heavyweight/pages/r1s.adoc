@@ -45,7 +45,7 @@ hinten rechts am Boss betrachten +
 einmal oder zweimal ausweichen
 
 == Feline Nachahmung (Copycat)
-Add schlägt mit Präziser Höhenschlag +
+Add schlägt mit Präziser Höhenflug +
 2 Mal direkter Hit, 2 Mal mit Hochwerfen +
 Boss gebückt -> Hochwerfen
 
@@ -55,10 +55,10 @@ Boss gebückt -> Hochwerfen
 Knockback zu neu generierten Plattformen
 
 == Zwei Klone
-Nine Lives + Leaping One-Two Paw + Soulshade +
+Nine Lives + Doppelklauensprung (Leaping One-Two Paw) + Soulshade +
 Nine Lives + Leaping Quadruple Crossing + Soulshade +
-Tempestuous Tear (Line-Stacks) +
-Nailchipper (Spread-Marks müssen bei Rollen-Proteans die zweiten Baits übernehmen) +
+Katerstrophaler Wind (Tempestuous Tear) (Line-Stacks) +
+Krallenschneider (Nailchipper) (Spread-Marks müssen bei Rollen-Proteans die zweiten Baits übernehmen) +
 Nailchipper-Marks am Ende voneinander weg, können nicht-markierte ruhig treffen
 
 // Raidwide
@@ -66,20 +66,20 @@ Nailchipper-Marks am Ende voneinander weg, können nicht-markierte ruhig treffen
 == Mäusejagd (Mouser) 2
 Ausweichen genau wie beim ersten Mal
 
-=== (Overshadow)
+=== Überschattung (Overshadow)
 Line-Stack
 
-=== (Splintering Nails)
+=== Spreizklaue (Splintering Nails)
 Rollen-Stacks + 
 Tanks -> Heiler -> DDs
 
 // tb
 // shockwave
 
-== (Raining Cats)
+== Katzenterror (Raining Cats)
 Tethers
 
-== (Copycat)
+== Feliner Beutezug (Copycat)
 Devour mit Halb-Raum
 
 == Mäusejagd (Mouser) Enrage

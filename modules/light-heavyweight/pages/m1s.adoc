@@ -34,8 +34,9 @@ Zwei aufeinander folgende Halb-Raum Flächenangriffe. Reihenfolge ist zufällig.
 Zwei Klone werden aus dem freigesetztem Äther erschaffen und beide wiederholen die Doppelklaue. +
 Vom ersten sicheren Keil liegt der zweite immer genau durch die Arenamitte hindurch 180° gegenüber!
 
-HINT::
-links und rechts gelten hier in Blickrichtung des Bosses! Der linke/rechte Klon aus Blickrichtung zwischen den Klonen zum Boss hin!
+IMPORTANT: links und rechts gelten hier in Blickrichtung des Bosses!
+
+IMPORTANT: Der linke/rechte Klon aus Blickrichtung zwischen den Klonen zum Boss hin!
 
 links war zuerst sicher::
 links vom linken Klon starten

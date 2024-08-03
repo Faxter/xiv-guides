@@ -3,46 +3,88 @@
 WARNING: Noch in Arbeit!
 
 == Quellen und Ressourcen
+* https://docs.google.com/spreadsheets/d/1Hoah22L9LH6BeuWMPUve2LBTIVnJi0m1sLX2T1osioQ/edit?gid=635742920#gid=635742920[Timeline Google-Doc]
+* https://ff14.toolboxgaming.space/?id=466698136332271&preview=1[Toolbox]
 * https://www.youtube.com/watch?v=9UB5x8JzAiQ&ab_channel=HectorHectorson-HectorLectures[Video Hector]
 
-== Chat-Makros
+//== Chat-Makros
 
-== Marks
+//== Marks
 
 == Vierfachklaue (Quadruple Crossing)
-Rollen-Proteans
+Die vier dichtesten Charaktere zum Boss ziehen eine kegelförmige AoE auf sich - das passiert zwei Mal. +
+Danach werden die Kegelflächen in derselben Reihenfolge wiederholt.
+
+DDs baiten zuerst auf Interkardinalen. Danach Supports auf den Kardinalen.
+
+.Vierfachklaue: hinein um Kegel zu baiten
+image::m1s/quadruple-crossing-dds-in.png[quadruple-crossing-dds-in]
 
 == Milchtritt (Biscuit Maker)
-Tankbuster
+Tankbuster mit zwei Schlägen (physischer Schaden). Der erste Treffer verursacht Verwundbarkeit. +
+Tanks müssen tauschen oder MT nutzt Unverwundbarkeit.
 
-== Sieben Leben (Nine Lives)
-Äther freisetzen für Klone
+== Sieben Leben (Nine Lives) 1
+Die Fähigkeit selbst setzt vorerst nur Äther frei.
 
-== Doppelklaue (One-Two Paw)
-Halb-Raum
+=== Doppelklaue (One-Two Paw)
+Zwei aufeinander folgende Halb-Raum Flächenangriffe. Reihenfolge ist zufällig.
 
-== Seelenschatten (Soulshade)
-Klone aus freigesetztem Äther erschaffen
+=== Seelenschatten (Soulshade)
+Zwei Klone werden aus dem freigesetztem Äther erschaffen und beide wiederholen die Doppelklaue. +
+Vom ersten sicheren Keil liegt der zweite immer genau durch die Arenamitte hindurch 180° gegenüber!
 
-//Sieben Leben
+links war zuerst sicher::
+links vom linken Klon starten
 
-== Vierfache/Doppelte Kralle (Double/Quadruple Swipe)
-vierfach -> Pairs +
-doppelt -> Stacks
+rechts war zuerst sicher::
+rechts vom rechten Klon starten
+
+.Sieben Leben 1: sicherer Keil links vom linken Klon
+image::m1s/nine-lives-1.png[nine-lives-1-safe-spot]
+
+== Sieben Leben (Nine Lives) 2
+Dieser Angriff startet schon während der ersten Runde Sieben Leben.
+
+=== Doppelte/Vierfache Kralle (Double/Quadruple Swipe)
+Direkt nach dem zweiten Angriff der Klone aus Sieben Leben 1 wird einer dieser Krallen-Angriffe ausgelöst.
+
+Doppelt::
+Gruppen-Stacks westlich und östlich vom Boss
+
+Vierfach::
+Pärchen auf Interkardinal
+
 
 // Seelenschatten
 
-== Vierfachklauensprung (Leaping Quadruple Crossing)
-Vierfachklaue mit Verschieben
+=== Vierfachklauensprung (Leaping Quadruple Crossing)
+Funktioniert wie Vierfachklaue, aber der Boss wird seinen Standort wie angezeigt verschieben. Alle müssen also ihre Position in Richtung des neuen Mittelpunktes verschieben. +
+Sofort nach dem vierten Set Keile wird der Krallenangriff (Pärchen/Gruppen) vom Klon ausgelöst!
+
+Arena-relativ (True North)::
+Die Himmelsrichtungen bleiben für jeden gleich. Wer beim ersten Mal im Norden steht, steht auch hier im Norden usw.
+
+Boss-relativ::
+Die Positionen werden rotiert anhand der Laufrichtung von der Arenamitte aus durch den Boss hindurch. Es wird also die Bewegungsrichtung der Verschiebung als relatives Norden betrachtet.
+
+.Vierfachklauensprung: True North, DDs zuerst hinein
+image::m1s/leaping-quadruple-crossing-dds-in.png[leaping-quadruple-crossing-dds-in]
 
 == Blutiger Rundumkratzer (Bloody Scratch)
-Raidwide
+Raidweiter Schaden.
 
 == Mäusejagd (Mouser)
-Plattform wird zerstört +
-hinten links am Boss anfangen +
-hinten rechts am Boss betrachten +
-einmal oder zweimal ausweichen
+Die Fliesen des Arenabodens werden angegriffen. Jede Fliese, die zwei Mal getroffen wird, wird zerstört.
+
+Auf Fliese links hinterm Boss starten und die Fliese rechts hinterm Boss betrachten:
+
+wird 1 Mal markiert::
+Nach dem Treffer auf hinten rechts -> diese Fliese betreten. + Stehen bleiben.
+
+wird 2 Mal markiert::
+Nach dem Treffer auf hinten rechts -> diese Fliese betreten. +
+Dann entweder zurück nach hinten links oder weiter laufen auf vorne rechts.
 
 == Feline Nachahmung (Copycat)
 Add schlägt mit Präziser Höhenflug +

@@ -34,6 +34,9 @@ Zwei aufeinander folgende Halb-Raum Flächenangriffe. Reihenfolge ist zufällig.
 Zwei Klone werden aus dem freigesetztem Äther erschaffen und beide wiederholen die Doppelklaue. +
 Vom ersten sicheren Keil liegt der zweite immer genau durch die Arenamitte hindurch 180° gegenüber!
 
+HINT::
+links und rechts gelten hier in Blickrichtung des Bosses! Der linke/rechte Klon aus Blickrichtung zwischen den Klonen zum Boss hin!
+
 links war zuerst sicher::
 links vom linken Klon starten
 
@@ -80,10 +83,10 @@ Die Fliesen des Arenabodens werden angegriffen. Jede Fliese, die zwei Mal getrof
 Auf Fliese links hinterm Boss starten und die Fliese rechts hinterm Boss betrachten:
 
 wird 1 Mal markiert::
-Nach dem Treffer auf hinten rechts -> diese Fliese betreten. + Stehen bleiben.
+Nach dem Treffer auf hinten rechts -> diese Fliese betreten. Hier stehen bleiben.
 
 wird 2 Mal markiert::
-Nach dem Treffer auf hinten rechts -> diese Fliese betreten. +
+Nach dem Treffer auf hinten rechts -> diese Fliese betreten. 
 Dann entweder zurück nach hinten links oder weiter laufen auf vorne rechts.
 
 == Feline Nachahmung (Copycat)

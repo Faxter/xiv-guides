@@ -91,21 +91,67 @@ Nach dem Treffer auf hinten rechts -> diese Fliese betreten.
 Dann entweder zurück nach hinten links oder weiter laufen auf vorne rechts.
 
 == Feline Nachahmung (Copycat)
-Add schlägt mit Präziser Höhenflug +
-2 Mal direkter Hit, 2 Mal mit Hochwerfen +
-Boss gebückt -> Hochwerfen
+Add schlägt mit "Präziser Höhenflug" auf den markierten Charakter.
+
+Zu dem Zeitpunkt, an dem der Schlag eintrifft, werden alle horizontal und vertikal benachbarten Fliesen ebenfalls getroffen (Plus-Muster).
+
+Add steht aufrecht::
+Die Fliese wird direkt beschädigt -> auf einer heilen Fliese positionieren
+
+Add hockt gebückt::
+Der markierte Charakter wird etwa eine Fliesenbreite in seine eigene (!) Blickrichtung geworfen -> mit etwa einer Fliese Abstand mit Blick zu einer heilen Fliese positionieren
+
+Dies passiert vier Mal: zwei direkte Treffer und zwei mit Rückstoß. Die Reihenfolge ist zufällig.
 
 //Milchtritt
 
 == Schockwelle (Shockwave)
-Knockback zu neu generierten Plattformen
+Es wird ein lila Knockback von der Arenamitte angezeigt. Dieser kann nicht mit Fähigkeiten verhindert werden!
 
-== Zwei Klone
-Nine Lives + Doppelklauensprung (Leaping One-Two Paw) + Soulshade +
-Nine Lives + Leaping Quadruple Crossing + Soulshade +
-Katerstrophaler Wind (Tempestuous Tear) (Line-Stacks) +
-Krallenschneider (Nailchipper) (Spread-Marks müssen bei Rollen-Proteans die zweiten Baits übernehmen) +
-Nailchipper-Marks am Ende voneinander weg, können nicht-markierte ruhig treffen
+Der Rückstoß ist sehr weit, deshalb muss eine Ecke der Arena anvisiert werden, in welcher die Fliesen zuerst wiederhergestellt werden. Dies ist immer für zwei gegenüberliegende Ecken gegeben.
+
+* Gruppe 1: West
+* Gruppe 2: Ost
+
+CAUTION: Die anderen zwei Ecken werden erst nach dem Rückstoß repariert.
+
+Kurz danach erhalten alle eine persönliche Fläche, die ein Verteilen erfordert.
+
+* Supports links
+* DDs rechts
+* Nahkämpfer am Boss
+* Fernkämpfer bleiben etwa in der Ecke aus dem Rückstoß.
+
+.Schockwelle: Positionen zum Verteilen
+image::m1s/shockwave-spread.png[shockwave-spread]
+
+== Sieben Leben 3 & 4
+Hier werden nun die Attacke und die Verschiebung im Äther gespeichert, aus dem ein Klon erschaffen wird.
+
+=== Doppelklauensprung (Leaping One-Two Paw)
+Boss springt an die angezeigte Position und führt von hier aus <<Doppelklaue (One-Two Paw)>> aus. Das anschließende <<Seelenschatten (Soulshade)>> erzeugt einen Klon nördlich oder südlich der Mitte und speichert in diesem die Richtung der Verschiebung sowie die Fähigkeit Doppelklaue mit der gezeigten Reihenfolge.
+
+=== Vierfachklauensprung
+Wie zuvor, nur dass die hierbei ausgeführte und dann in einem zweiten Klon gespeicherte Fähigkeit <<Vierfachklauensprung (Leaping Quadruple Crossing)>> ist.
+
+=== Verhalten der Klone
+Der Boss verbindet sich mit einem zufälligen Klon. Dieser führt daraufhin seine gespeicherte Verschiebung und dann die gespeicherte Fähigkeit aus. Die Verschiebung gilt hierbei immer in Blickrichtung.
+
+**Beispiel**: Boss springt zu seiner linken Seite => Klon wird zur Linken des Klons springen
+
+=== Katerstrophaler Wind (Tempestuous Tear)
+Immer während der Doppelklaue in erster sicherer Hälfte: zwei Linien-Stacks auf beiden Heilern.
+
+* Gruppe 1: nördlich
+* Gruppe 2: südlich 
+
+=== Krallenschneider (Nailchipper)
+Immer während Vierfachklaue: Vier Flächen-Marker auf allen Supports oder auf allen DDs während erstem Bait. Dann nochmal vier Marker den anderen Charakteren. Das zweite Set löst erst zusammen mit den letzten Keil-Flächen aus!
+
+TIP: Die Krallenschneider-Flächen können ruhig nicht-markierte Charaktere treffen. Sie dürfen sich nur nicht gegenseitig überlagern!
+
+.Krallenschneider: markierte Charaktere lösen Fläche aus
+image::m1s/nine-lives-nailchipper.png[nine-lives-nailchipper]
 
 // Raidwide
 

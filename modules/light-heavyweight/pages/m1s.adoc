@@ -4,8 +4,11 @@ WARNING: Noch in Arbeit!
 
 == Quellen und Ressourcen
 * https://docs.google.com/spreadsheets/d/1Hoah22L9LH6BeuWMPUve2LBTIVnJi0m1sLX2T1osioQ/edit?gid=635742920#gid=635742920[Timeline Google-Doc]
+* https://pastebin.com/Sckr8E0m[NASE Pastebin]
+* https://raidplan.io/plan/3Kfzojuys7fOQs1v[Raidplan Tethers MTTT]
 * https://ff14.toolboxgaming.space/?id=466698136332271&preview=1[Toolbox]
 * https://www.youtube.com/watch?v=9UB5x8JzAiQ&ab_channel=HectorHectorson-HectorLectures[Video Hector]
+* https://www.youtube.com/watch?v=bOCqbHRQw2Q[Video Hector: Same Baits]
 
 //== Chat-Makros
 
@@ -15,7 +18,11 @@ WARNING: Noch in Arbeit!
 Die vier dichtesten Charaktere zum Boss ziehen eine kegelförmige AoE auf sich - das passiert zwei Mal. +
 Danach werden die Kegelflächen in derselben Reihenfolge wiederholt.
 
-DDs baiten zuerst auf Interkardinalen. Danach Supports auf den Kardinalen.
+DDs baiten zuerst auf Interkardinalen. Danach wechseln die Supports ein, um ebenfalls auf den Interkardinalen zu baiten.
+
+Die nächsten zweie Attacken sind dadurch ebenfalls interkardinal ausgerichtet und lassen die Kardinalen sicher!
+
+NOTE: Dies entspricht der sog. "Same Baits" Methode. Die alternative Taktik lässt die DDs interkardinal und dann die Supports kardinal baiten.
 
 .Vierfachklaue: hinein um Kegel zu baiten
 image::m1s/quadruple-crossing-dds-in.png[quadruple-crossing-dds-in]
@@ -57,7 +64,7 @@ Doppelt::
 Gruppen-Stacks westlich und östlich vom Boss
 
 Vierfach::
-Pärchen auf Interkardinal
+Pärchen auf Kardinalen
 
 
 // Seelenschatten
@@ -101,7 +108,9 @@ Die Fliese wird direkt beschädigt -> auf einer heilen Fliese positionieren
 Add hockt gebückt::
 Der markierte Charakter wird etwa eine Fliesenbreite in seine eigene (!) Blickrichtung geworfen -> mit etwa einer Fliese Abstand mit Blick zu einer heilen Fliese positionieren
 
-Dies passiert vier Mal: zwei direkte Treffer und zwei mit Rückstoß. Die Reihenfolge ist zufällig.
+NOTE: Es ist möglich und üblich, sich direkt in die anvisierte Fliese zu stellen. Mit Positionierung in einer Ecke der Fliese und Blick zur gegenüberliegenden Ecke, wird die Landung auf derselben Fliese erfolgen!
+
+Dies passiert vier Mal: zwei direkte Treffer und zwei mit Rückstoß. Die Reihenfolge ist zufällig. Die vier anvisierten Charaktere sind entweder alle DDs oder alle Supports.
 
 //Milchtritt
 
@@ -150,29 +159,62 @@ Immer während Vierfachklaue: Vier Flächen-Marker auf allen Supports oder auf a
 
 TIP: Die Krallenschneider-Flächen können ruhig nicht-markierte Charaktere treffen. Sie dürfen sich nur nicht gegenseitig überlagern!
 
+Je nachdem welche Rolle die Marker erhält, kann es sein, dass die Supports anfangen müssen mit den ersten Baits.
+
 .Krallenschneider: markierte Charaktere lösen Fläche aus
 image::m1s/nine-lives-nailchipper.png[nine-lives-nailchipper]
 
 // Raidwide
 
 == Mäusejagd (Mouser) 2
-Ausweichen genau wie beim ersten Mal
+Ausweichen genau wie beim ersten Mal.
+
+Es wird wieder vier Schläge geben. Dieses Mal werden die vier Charaktere anvisiert, die bei der ersten Runde nicht dran waren, alle DDs oder alle Supports.
+
+Gleichzeitig zu den Schlägen gibt es dieses Mal zusätzliche Mechaniken (jeweils zwei in zufälliger Reihenfolge):
 
 === Überschattung (Overshadow)
-Line-Stack
+Linien-Stack
 
 === Spreizklaue (Splintering Nails)
-Rollen-Stacks + 
+Rollen-Stacks: +
+von links nach rechts mit Blick zum Boss +
 Tanks -> Heiler -> DDs
+
+.Mäusejagd 2: Spreizklaue Keilflächen
+image::m1s/mouser-2-splintering-nails.png[mouser-2-splintering-nails]
 
 // tb
 // shockwave
 
 == Katzenterror (Raining Cats)
-Tethers
+Zwei Tether erscheinen; auf die verbundenen Charaktere werden keilförmige Flächen geschossen. Gleichzeitig werden zwei Stack-Flächen ausgelöst:
+
+* auf den dichtesten Charakter am Boss
+* auf den am weitesten vom Boss entfernten Charakter
+
+Dies passiert vier Mal hintereinander.
+
+=== Methode MTTT
+Tanks:: zusammen innerhalb der Hitbox vorm Boss
+Nahkämpfer:: nehmen ersten Tether und stehen genau auf dem Rand der Hitbox West & Ost
+Rest:: Stack im Süden auf maximaler Melee-Distanz
+
+Nach der ersten Attacke übernehmen die Tanks die Tether. Die beiden Nahkämpfer gesellen sich zum Rest.
+
+Die Tanks ziehen **Unverwundbarkeit** für die letzten beiden Attacken.
+
+.Katzenterror: MTTT
+image::m1s/raining-cats-mttt.png[raining-cats-mttt]
 
 == Feliner Beutezug (Copycat)
-Devour mit Halb-Raum
+Der Boss erzeugt einen Klon und führt dann selbst <<Doppelklaue (One-Two Paw)>> entlang der Nord-Süd-Achse durch die Arenamitte aus.
+
+Der Klon zeigt eine Reihe von kreisförmigen und linienförmigen Flächen im Wechsel an.
+
+Start auf der sicheren Hälfte (Ost oder West) außerhalb aller angezeigten Flächen.
+
+Die Doppelklaue löst gleichzeitig mit der letzten Beutezug-Fläche aus. Dann sofort die Hälfte wechseln
 
 == Mäusejagd (Mouser) Enrage
-alle Plattformen werden zerstört
+Der Boss bleibt weiterhin angreifbar, allerdings werden am Ende alle Plattformen zerstört!

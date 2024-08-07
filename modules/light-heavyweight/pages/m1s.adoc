@@ -1,7 +1,5 @@
 = Arkadion - Halbschwergewicht R1 (episch)
 
-WARNING: Noch in Arbeit!
-
 == Quellen und Ressourcen
 * https://docs.google.com/spreadsheets/d/1Hoah22L9LH6BeuWMPUve2LBTIVnJi0m1sLX2T1osioQ/edit?gid=635742920#gid=635742920[Timeline Google-Doc]
 * https://pastebin.com/Sckr8E0m[NASE Pastebin]

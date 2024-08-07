@@ -27,7 +27,7 @@ image::m1s/quadruple-crossing-dds-in.png[quadruple-crossing-dds-in]
 
 == Milchtritt (Biscuit Maker)
 Tankbuster mit zwei Schlägen (physischer Schaden). Der erste Treffer verursacht Verwundbarkeit. +
-Tanks müssen tauschen oder MT nutzt Unverwundbarkeit.
+Tanks müssen tauschen oder ein Tank nutzt Unverwundbarkeit.
 
 == Sieben Leben (Nine Lives) 1
 Die Fähigkeit selbst setzt vorerst nur Äther frei.
@@ -36,17 +36,16 @@ Die Fähigkeit selbst setzt vorerst nur Äther frei.
 Zwei aufeinander folgende Halb-Raum Flächenangriffe. Reihenfolge ist zufällig.
 
 === Seelenschatten (Soulshade)
-Zwei Klone werden aus dem freigesetztem Äther erschaffen und beide wiederholen die Doppelklaue. +
-Vom ersten sicheren Keil liegt der zweite immer genau durch die Arenamitte hindurch 180° gegenüber!
+Zwei Klone werden aus dem freigesetztem Äther erschaffen und beide wiederholen die Doppelklaue.
 
-IMPORTANT: links und rechts gelten hier in Blickrichtung des Bosses!
+Dabei bleibt immer ein Keil sicher. Beim zweiten Angriff liegt der sichere Keil immer genau gegenüber vom ersten!
 
-IMPORTANT: Der linke/rechte Klon aus Blickrichtung zwischen den Klonen zum Boss hin!
+IMPORTANT: links und rechts gelten hier in Blickrichtung zum Boss hin!
 
-links war zuerst sicher::
+links vom Boss war zuerst sicher::
 links vom linken Klon starten
 
-rechts war zuerst sicher::
+rechts vom Boss war zuerst sicher::
 rechts vom rechten Klon starten
 
 .Sieben Leben 1: sicherer Keil links vom linken Klon
@@ -106,9 +105,9 @@ Die Fliese wird direkt beschädigt -> auf einer heilen Fliese positionieren
 Add hockt gebückt::
 Der markierte Charakter wird etwa eine Fliesenbreite in seine eigene (!) Blickrichtung geworfen -> mit etwa einer Fliese Abstand mit Blick zu einer heilen Fliese positionieren
 
-NOTE: Es ist möglich und üblich, sich direkt in die anvisierte Fliese zu stellen. Mit Positionierung in einer Ecke der Fliese und Blick zur gegenüberliegenden Ecke, wird die Landung auf derselben Fliese erfolgen!
+NOTE: Es ist möglich und üblich, sich auch hier direkt in eine unversehrten Fliese zu stellen. Mit Positionierung in einer Ecke der Fliese und Blick zur gegenüberliegenden Ecke wird die Landung auf derselben Fliese erfolgen!
 
-Dies passiert vier Mal: zwei direkte Treffer und zwei mit Rückstoß. Die Reihenfolge ist zufällig. Die vier anvisierten Charaktere sind entweder alle DDs oder alle Supports.
+Dies passiert vier Mal: zwei direkte Treffer und zwei mit Wurf. Die Reihenfolge ist zufällig. Die vier anvisierten Charaktere sind entweder alle DDs oder alle Supports.
 
 //Milchtritt
 

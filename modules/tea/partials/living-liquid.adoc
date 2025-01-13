@@ -9,7 +9,7 @@ Bosse auseinander ziehen für erste Gebets-Hand, dann MT Herausforderung auf Han
 
 Throttle: +
 Regen Heiler startet mit sich selbst sofern nötig, dann von oben nach unten +
-Shild Heiler startet mit sich selbst sofern nötig, dann von unten nach oben
+Schild Heiler startet mit sich selbst sofern nötig, dann von unten nach oben
 ****
 
 === Intro

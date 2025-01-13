@@ -1,0 +1,34 @@
+= Eine zweite Zukunft (fatal)
+
+[WARNING]
+IN ARBEIT +
+(Stand 13. Januar 2025)
+
+== Info
+****
+**Unlock**: Arkadion - Halbschwergewicht R4 (Episch) "R4S - Tosender Donner", dann Quest in Tuliyollal +
+**Gear**: Sync zu iLvl 735 +
+**Level**: 100 +
+**Enrage**: ca. 19 min +
+**Loot**: 1x Oracle Totem für jeden (Umtausch bei Uah'shepya in Lösung 9)
+****
+
+=== Quellen und Ressourcen
+* https://discord.com/channels/840349073210867722/1323568123378663474[LPDÜ Discord Thread]
+* https://www.youtube.com/[Video ???]
+* https://www.icy-veins.com/ffxiv/futures-rewritten-ultimate-guides[Text icy-veins]
+* https://docs.google.com/spreadsheets/d/e/2PACX-1vTQhCPIFsDC-Jo6ohWc9n1UdkqAxT860UQYoJZHSoYQe7vUWpUKW7ITLI0lVEsfTn_2_t2Sc0cc5z3l/pubhtml#[Tank Mitigation Tabelle]
+
+
+=== Marks
+----
+boop
+----
+
+.Marks
+image::marks.png[marks]
+
+=== Besonderes: ?
+TBD
+
+<hier partial-includes für phasen>

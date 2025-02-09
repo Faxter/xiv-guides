@@ -39,7 +39,7 @@ R2 => Magischer Fernkampf
 === Besonderes: ?
 TBD
 
-<partial phase 1>
+include::fru:partial$fatebreaker.adoc[]
 
 <partial phase 2>
 

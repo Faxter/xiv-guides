@@ -2,7 +2,7 @@
 
 [WARNING]
 IN ARBEIT +
-(Stand 13. Januar 2025)
+(Stand 09. Februar 2025)
 
 == Info
 ****
@@ -22,13 +22,29 @@ IN ARBEIT +
 
 === Marks
 ----
-boop
+{"Name":"Futures Rewritten LPDU","MapID":1006,"A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":93.0,"ID":4,"Active":true},"Two":{"X":107.0,"Y":0.0,"Z":93.0,"ID":5,"Active":true},"Three":{"X":107.0,"Y":0.0,"Z":107.0,"ID":6,"Active":true},"Four":{"X":93.0,"Y":0.0,"Z":107.0,"ID":7,"Active":true}}
 ----
 
 .Marks
-image::marks.png[marks]
+image::FRU-marks.png[marks]
+
+=== Absprachen zu Positionen
+Dies sind die üblichen Besetzungen der Fernkämpfer - diese können aber individuell getauscht werden, falls erwünscht. Es sollte nur im Vorfeld abgesprochen werden.
+
+H1 => Direktheilung +
+H2 => Schildheilung +
+R1 => Physikalischer Fernkampf +
+R2 => Magischer Fernkampf
 
 === Besonderes: ?
 TBD
 
-<hier partial-includes für phasen>
+<partial phase 1>
+
+<partial phase 2>
+
+<partial phase 3>
+
+<partial phase 4>
+
+<partial phase 5>

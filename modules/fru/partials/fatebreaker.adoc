@@ -1,4 +1,4 @@
-== Phase 1: ? (Fatebreaker)
+== Phase 1: Fusionierter Ascian (Fatebreaker)
 
 === Raidplan
 https://raidplan.io/plan/VDACL8AfJQ485AxD
@@ -6,19 +6,19 @@ https://raidplan.io/plan/VDACL8AfJQ485AxD
 === LPDU Kurzfassung
 ****
 *Prioritäten:* +
-[.underline]#? (Sinsmoke)# +
+[.underline]#Sündenflamme (Sinsmoke)# +
 Gruppe 1 Norden - Gruppe 2 Süden +
 Am besten schon in Gruppenformation bewegen, vor mittlerem Blitz nach stack/spread +
 Tauschen bei doppeltem Tether in Gruppe: T => M => R => H +
 Bei Feuer-Stack passen die Tanks so an, dass die Gruppen ausgeglichen werden
 
-[.underline]#? (Fall of Faith)# +
+[.underline]#Sünden-Erdspaltung (Fall of Faith)# +
 Conga-Reihe von Norden nach Süden auf westlicher Seite zwischen Markern 1 und 4 +
 Naheliegendste Nicht-Tether gehen Nord/Süd nach dieser Priorität: +
 Norden > H1 - H2 - MT - OT - M1 - M2 - R1 - R2 < Süden +
 Nördlichst geht links, südlichst geht rechts mit Blick zum Boss für Blitz
 
-[.underline]#? (Burn Blast Towers)# +
+[.underline]#Brandschlag (Burnt Strike) Towers# +
 Turm Nord: H1 legt ab, M1 springt +
 Turm Mitte: R2 legt ab, R1 springt +
 Turm Süd: H2 legt ab, M2 springt
@@ -28,7 +28,7 @@ Turm Süd: H2 legt ab, M2 springt
 === Intro
 Die Phase beginnt mit drei Auto-Angriffen. Währenddessen wird der Boss in die Mitte der Arena bewegt.
 
-=== ? (Cyclonic Break)
+=== Zyklon-Brecher (Cyclonic Break)
 Verteilen so, dass jeweils ein Nahkämpfer und ein Fernkämpfer paarweise zusammen kommen können (s. Bild).
 
 .Startposition

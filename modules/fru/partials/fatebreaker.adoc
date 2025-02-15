@@ -32,11 +32,39 @@ Die Phase beginnt mit drei Auto-Angriffen. Währenddessen wird der Boss in die M
 Verteilen so, dass jeweils ein Nahkämpfer und ein Fernkämpfer paarweise zusammen kommen können (s. Bild).
 
 .Startposition
-image::FRU-cyclonic-spread.png[cyclonic spread]
+image::FRU-P1-cyclonic-spread.png[cyclonic spread]
 
 Der Boss zeigt entweder rotes Feuer oder blaue Blitze um sich herum.
 
-🔥:: Partner-Stacks
-⚡:: Kleine AoEs (verteilen)
+Der Angriff beginnt mit acht Kegelflächen auf jeden Charakter, die vom Boss ausgehen (Proteans).
 
-Der Angriff beginnt mit acht Kegelflächen auf jeden Charakter vom Boss ausgehend.
+🔥:: *Partner-Stacks* +
+* Zwischen die Keilflächen bewegen, um mit dem Partner zu stacken.
+* Die Treffpunkte sind farbcodiert etwa auf max-melee-Distanz (zwischen A & 1 usw.).
+
+.Feuer-Partner
+image::FRU-P1-cyclonic-fire.png[cyclonic fire]
+
+
+⚡:: *Kleine AoEs (verteilen)* +
+* Zwischen die Keilflächen bewegen: Nahkämpfer innen, Fernkämpfer außen.
+* Für Konsistenz kann es einfacher sein, dieselbe Freifläche zu wählen wie bei 🔥 - es ist hier aber egal.
+
+.Blitz-Verteilung
+image::FRU-P1-cyclonic-lightning.png[cyclonic lightning]
+
+Danach wird ein erstes Echo der Keilflächen aktiviert, während 🔥 oder ⚡ auflöst.
+Es folgen zwei weitere Echos, die abwechselnd in der vorigen sicheren Fläche und der ursprünglichen Fläche erscheinen. 
+
+=== Tankbuster: Stetes Pulvermal (Powder Mark Trail)
+Tank wird von einem schweren Angriff getroffen und erhält den 15s-Debuff Stetes Pulvermal sowie eine Verwundbarkeit. Letztere macht einen Aggro-Wechsel erforderlich.
+
+Sobald Stetes Pulvermal abfällt wird der Tank und der am dichtesten befindliche Charakter von einem Flächen-Tankbuster getroffen.
+
+.Pulvermal Debuff icon
+image::FRU-P1-powder-mark-icon.png[Powder Mark icon]
+
+Dieser Debuff fällt erst während der nächsten Mechanik ab!
+
+=== Paradiestrennung (Utopian Sky)
+
